@@ -74,3 +74,65 @@ These are subject to change as tasks are completed or as unexpected difficulties
 
 > ***BA*** Awaiting images uploaded by Dr. Vaughan to be linked for ***everyone*** to start labeling. Will be located at: `labelbox.com`. Documentation available at: `https://labelbox.com/docs`.
 
+# March 31, 2020
+
+## Meeting Agenda
+1. Communicate issues with ROS install
+2. Update team on details of RoboNation Conference Call - March 29, 2020
+3. Recover expectations of Team Report - Due 4/1/2020
+4. Open conversation about enclosure upgrade, led by Joseph
+5. Tutorial Work
+
+## Discussion
+
+### ROS Installation Issues
+* Will add a VirtualBox disk image to Owncloud for others, so everyone is working from same platform. This should resolve any installation issues, though some may have trouble downloading it.
+
+### RoboNation Conference Call
+Go/No Go Final Decision on competition will be made on April 24
+* Navy Volunteers
+* Gathering limits imposed by local/state gov't of FL
+* Facility usage
+* Cancellation policy will be adjusted for this -- can opt for either refund of registration or, if it's an accounts issue to get refund, then a forward to 2021 competition
+
+RoboNation is currently not considering throttling the number of people allowed per team to meet gathering requirements, if they're raised from 10, but still imposed
+
+Robonation is currently not considering postponing rather than cancelling
+
+To keep a sense of community, RoboNation will start hosting both technical and non-technical webinars
+* First on Thursday, April 2, 2020 (non-technical): Blue Origins: Company Opportunities
+* Will try to be announced 4-5 days in advance over Band App, but depends on vendors' response times
+* Example of technical would be Mathworks showing an ad-hoc tutorial
+* All will be recorded and uploaded EXCEPT Q&A with vendor approval
+* Webinars will be hosted every 2 weeks
+
+***DO NOT share links to webinars outside of team members***
+
+Invitation Letters go out week of April 6, 2020, mostly for people/teams who need Travel Visas
+
+### Team Report
+Each team member/sub-team (CV, Enclosure, Control, etc.) will write up progress individually following style of `CRAWLAB/Internal Reporting`
+
+Report writeups are expected by 5pm on the due date
+
+Reports serve as template for technical buildup of system for report due to RoboNation as part of competition
+
+
+### Enclosure Upgrade Discussion
+Discussed Joseph's, Bradley's, and Thomas' current idea(s)
+* Water-cooled system with downward-facing outspout mounted near CoG to prevent additional moments
+* Simplifications for calculations, such as assuming water temperature is uniform
+* Heat sink with water-reservoir to absorb the heat from the mounting plate
+
+Reintroduced idea of hydrophobic/water-wicking membrane to get airflow rather than developing a complex, water-cooled system
+
+Next enclosure team meeting is evening of 3/31/2020
+
+### Tutorial Work
+I (Ben) will be working on configuring the navigation stack using the `rosbag` files from the past competition as tuning tools
+* Next will be downloading `ZED` and interfacing that output with `rtabmap`. I expect to do this Friday afternoon.
+
+Recommended Dallas get started with basic ROS tutorials on publishing/subscribing and then working up towards working with `ZED` since he will be CV lead.
+
+Joseph will be continuing to work through the ROS book and then with turtlebot tutorials.
+
