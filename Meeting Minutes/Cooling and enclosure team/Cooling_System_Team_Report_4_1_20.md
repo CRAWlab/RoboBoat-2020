@@ -38,10 +38,10 @@
 			3. May complicate system.
 	* Heat Exchanger Idea #3 - Use copper piping.
 
-7. Radiator - Have a closed system with a radiator mounted on the outside of the box. Would require a fluid reservoir. The radiator would dissipate heat into the atmosphere while the atmosphere acted as a thermal energy reservoir. There would most likely need to be a fan attached to the radiator to circulate air through the fins when the boat is stopped.
+2. Radiator - Have a closed system with a radiator mounted on the outside of the box. Would require a fluid reservoir. The radiator would dissipate heat into the atmosphere while the atmosphere acted as a thermal energy reservoir. There would most likely need to be a fan attached to the radiator to circulate air through the fins when the boat is stopped.
 
-8. Air cooled system.
-9. Intake and Exhaust.
+3. Air cooled system.
+4. Intake and Exhaust.
 	* Snorkel air intake with spout and opening pointing downward.
 		* Exhaust and Intake should be symmetrical with respect to each other due to the holonomic capabilities of the  boat. This is preferred in order to keep the same functionality when driving in reverse.
 			[Something similar to this, but not exactly](https://www.wish.com/product/598a140c08e12d09fc918b64?hide_login_modal=true&from_ad=goog_shopping&_display_country_code=US&_force_currency_code=USD&pid=googleadwords_int&c=%7BcampaignId%7D&ad_cid=598a140c08e12d09fc918b64&ad_cc=US&ad_curr=USD&ad_price=9.88&campaign_id=7203534630&gclid=Cj0KCQjw1Iv0BRDaARIsAGTWD1un2uznoSLaLp57aooTYjIFVpUlnZ-i83nC90eIvOSy9uJaWBWzo30aAvsEEALw_wcB&share=web)
@@ -51,7 +51,7 @@
 			There is another one on McMASTER-CARR but it's relatively expensive. Although, I do plan on using this in the Solidworks assembly of the system. To view this fan click [here.](https://www.mcmaster.com/9602k41)
 		* Possible safety system with two closing flaps shuts off all outside environments when IMU board indicates tipping past a certain point.
 		* Water resistant membrane that allows air flow.
-10. Internals.
+5. Internals.
 	* Fan based heat sink in middle to pull heat directly from the source. This would transfer heat from the from the aluminum base board, to the 4 heat pipes, through the coils and then carried out with the flow of air created by the intake and exhaust fans.
 		[Heat sink example here](https://www.amazon.com/Noctua-NH-U12S-Premium-Cooler-NF-F12/dp/B00C9EYVGY/ref=sr_1_3?keywords=noctua%20nh-u12s&qid=1585513334&sr=8-3)
 		[And here](https://www.coolermaster.com/catalog/coolers/cpu-air-coolers/hyper-212-evo/)
