@@ -1,0 +1,35 @@
+# Water Cooling Research 3/28/20
+## Bradley Este
+***Ideas from other teams***
+1. 2015 AUVSI RoboBoat
+* https://chrisalkire.com/2015-auvsi 
+    * Fans are mounteed to aluminum heat sink that is in direct contact with the water. Air is then blown over computer system.
+2. The Water Dogs - RoboBoat 2019
+* https://robonation.org/app/uploads/sites/3/2019/10/HHS_RB19_TDR.pdf 
+    * "A cooling system that pumps the lake water through a radiator. Fans then circulate the air from the enclosure through the radiator to cool the electronics".
+3. Makara-05 
+* https://robonation.org/app/uploads/sites/3/2019/10/UI_RB16_Paper.pdf
+    * "mushroom ventilators with the shape like a square"
+    * "two ventilators which are the outlet ventilator is located on each side of the ASV"
+    * "streaming the water from the back of the ASV using a tube, then the water flows towards the ESC’s heatsink to transfer the heat from the ESC to the water. Afterwards the water that contains the heat from the esc is flown outside of the ASV"
+## Added 3/29/20
+***Possible Purchases with Amazon Links*** 
+1. Liquid-Water Cooling Block $7 to $16 depending on size
+* https://www.amazon.com/dp/B07Y9L6H92/ref=sspa_dk_detail_1?pd_rd_i=B07Y9J8YRD&pd_rd_w=K0vwI&pf_rd_p=48d372c1-f7e1-4b8b-9d02-4bd86f5158c5&pd_rd_wg=y3Vad&pf_rd_r=A8DN84BPYW1KHW7N3HJK&pd_rd_r=de38285f-fb31-4107-acc2-247715433a26&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFRSDlQUU5RWUs3TzMmZW5jcnlwdGVkSWQ9QTEwMzYyMzEyVjRRVkcxOEtRWFJHJmVuY3J5cHRlZEFkSWQ9QTAyOTkyNDYyRzFTWTBERDFZSFBPJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1 
+2. Video by Linus Tech Tips tested various cooling sytems under similar conditons: https://www.youtube.com/watch?v=23vjWtUpItk 
+* Noctua NH-U12A $99.99. Best overall performance. https://www.amazon.com/NOCTUA-NH-U12A-Ventilateurs-NF-A12x25-performants/dp/B07PN4RDW3/ref=sr_1_2?crid=1FODL6BD170WL&keywords=noctua+nh-u12a&qid=1585512350&sprefix=noctua+nh-u12a%2Caps%2C187&sr=8-2 
+    * Would need exhaust port when sinked to aluminum sheet.
+* Noctua NH-U12S $64.99. Best price to cooling ratio. https://www.amazon.com/Noctua-NH-U12S-Premium-Cooler-NF-F12/dp/B00C9EYVGY/ref=sr_1_3?keywords=noctua+nh-u12s&qid=1585513334&sr=8-3 
+    * Would also need exhaust port.
+3. Water Cooling Pump, PWM Intelligent Control Speed $40.49. https://www.amazon.com/Integrated-Intelligent-Interface-Standard-Settings/dp/B07W5W6QH4/ref=sr_1_8?crid=287DINFZONEG9&keywords=water+cooling+pump&qid=1585513800&sprefix=water+cooling+%2Caps%2C194&sr=8-8 
+    * Pump head: 4 meters, Pump flow: 800L/H  
+4. BXQINLENX 600L/H 19W DC12V CPU Cooling Heat Exchanger Water Pump Tank 86 ml $41.99. https://www.amazon.com/BXQINLENX-DC12V-Cooling-Exchanger-Cooler/dp/B01H1BE4VQ/ref=sr_1_7?crid=287DINFZONEG9&keywords=water+cooling+pump&qid=1585513800&sprefix=water+cooling+%2Caps%2C194&sr=8-7 
+    *     Package: 1 X Water pump, 1 X Water Tank, 2 X G 1/4" TO 5/16", 1 X Water Block, 1 X G 1/4" TO G 1/4", 2 X Stents, 6 X Screws  
+5. Corsair iCUE H100i RGB PRO XT, 240mm Radiator. $199.99. https://www.amazon.com/dp/B0829RTMKY/ref=psdc_3015422011_t1_B07BWNWQKJ?th=1 
+    * Would need exhaust port.
+    * all-in-one liquid CPU cooler.
+
+## Items used
+1. We will use the idea of an exhaust port from [Marka-05](https://robonation.org/app/uploads/sites/3/2019/10/UI_RB16_Paper.pdf) and modify it to fit our needs.
+2. We plan to use a heat sink system similar to the [Noctua_NH-U12s](https://www.amazon.com/Noctua-NH-U12S-Premium-Cooler-NF-F12/dp/B00C9EYVGY/ref=sr_1_3?keywords=noctua+nh-u12s&qid=1585513334&sr=8-3) to transfer heat from the aluminum mounting plate to the air.
+3. There will need to be inlet and exhaust ports to allow air flow through the enclosure. This should take the heat pulled out by the heat sink and expel it from the enclosure.
