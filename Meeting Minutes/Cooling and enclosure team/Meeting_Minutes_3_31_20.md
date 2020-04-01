@@ -1,5 +1,5 @@
 ##  Cooling System Meeting 3/31/2020
-### Contribution by: Bradley Este, Thomas Poche, Joseph Stevens 
+### Contributions made by: Bradley Este, Thomas Poche, Joseph Stevens 
 
 
 **Cooling System**
