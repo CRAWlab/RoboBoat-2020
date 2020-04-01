@@ -7,9 +7,9 @@
 	* Steady flow conditions can be closely approximated by pumps and fans.
 2. Treat aluminum baseplate as heat sink.
 3. Treat the lake or outside air from atmosphere as a thermal energy reservoir.
-	* Can absorb finite amounts of heat without undergoing any change in temperature.
-  	Therefore, it can be assumed that new cool water or air coming into the system would not be affected by old warm water exiting the system even though they are coming from the same body of water.
-	* Also, incoming water can be assumed to be approximately 80&deg;F and incoming air approximately 88&deg;F.
+	* Can absorb large amounts of heat without undergoing any change in temperature.
+  	Therefore, it can be assumed that new cool water or air coming into the system would not be affected by old warm water or air exiting the system even though they are coming from the same surrounding environment.
+	* Also, incoming water can be assumed to be approximately 80&deg;F and incoming air can be assumed to be approximately 88&deg;F.
 	* The water temperature was approximated by the reported average salt water temp at Daytona Beach Florida in the following link: [Water temp historical average](https://www.currentresults.com/Oceans/Temperature/daytona-beach-average-water-temperature.php)
 	 * The air temperature was approximated by reviewing the historical average during June from the 22nd -28th here:[Air temp historical average](https://www.accuweather.com/en/us/daytona-beach/32114/june-weather/328173)
 	* The above implies that the incoming water or air could be expected to remain at a constant temperature of approximately 80&deg;F or 88&deg;F, respectively.
@@ -18,26 +18,22 @@
 
 ***Design Ideas***
 1. "Pump and Dump" - Pump the water in from the lake. Use the water to cool the system through a heat exchanger attached to the aluminum base plate of the CPUs and dump the water back in to the lake. This method would collect fresh water at approximately 80 deg F while operating as a steady flow process.
-	* Inlet and exit hoses should be designed in such a way to reduce drag and it's negative effect on the dynamics of the boat to avoid unexpected complications with the controller.
+	* Inlet and exit hoses should be designed in such a way to reduce drag and its negative effect on the dynamics of the boat to avoid unexpected complications with the controller.
 		* An inlet hose should be placed at about center of mass under the box between the two pontoons.
-		* The exit hose should come out of the side of the box and not be submerged under water like the inlet hose but instead be curved down to allow the warm water to exit into the lake.
+		* The exit hose should come out of the side of the box and not be submerged under water, like the inlet hose, but instead be curved down to allow the warm water to exit into the lake.
 	* Heat Exchanger Idea #1 - have a water cooling block attached to the bottom of the base plate
 	  consisting of one copper plate that makes direct contact with the aluminum base plate while the
-	  other exposed sides are insulated to ensure maximum heat transfer between the base plate and the
-	  cooling block.
+	  other exposed sides are insulated to ensure maximum heat transfer between the base plate and the cooling block.
 		* Concerns:
 			1. Incomplete coverage of copper plate by the water due to possible cavitation.
 			2. Block may need to be custom built to insure proper coverage.
 		* Possible solution:
-			1. Have the inlet hose coming in from the top of one side of the cooling block and the exit
-			   hose on the top of the opposite side. This should insure proper pressure and coverage on
-			   the inside of the cooling block.
+			1. Have the inlet hose coming in from the top of one side of the cooling block and the exit hose on the top of the opposite side. This should insure proper pressure and coverage onthe inside of the cooling block.
 	* Heat Exchanger Idea #2 - have an evaporator/radiator on the inside of the box up against the
 	  bottom of the aluminum base plate to absorb heat rather than a cooling block. This could
 	  eliminate concerns of cavitation.
 		* Concerns:
-			1. Area of coverage in comparison to previous idea being reduced and therefore reducing the
-			    effect of the heat transfer.
+			1. Area of coverage in comparison to previous idea being reduced and therefore reducing the effect of the heat transfer.
 			2. Possible increase in cost.
 			3. May complicate system.
 	* Heat Exchanger Idea #3 - Use copper piping.
@@ -56,13 +52,13 @@
 		* Possible safety system with two closing flaps shuts off all outside environments when IMU board indicates tipping past a certain point.
 		* Water resistant membrane that allows air flow.
 10. Internals.
-	* Heat sink with fan in middle to pull heat directly from the source. This would transfer heat from the from the aluminum base board to the 4 heat pipes through the coils and be carried out with the flow of air created by the intake and exhaust fans.
+	* Fan based heat sink in middle to pull heat directly from the source. This would transfer heat from the from the aluminum base board, to the 4 heat pipes, through the coils and then carried out with the flow of air created by the intake and exhaust fans.
 		[Heat sink example here](https://www.amazon.com/Noctua-NH-U12S-Premium-Cooler-NF-F12/dp/B00C9EYVGY/ref=sr_1_3?keywords=noctua%20nh-u12s&qid=1585513334&sr=8-3)
 		[And here](https://www.coolermaster.com/catalog/coolers/cpu-air-coolers/hyper-212-evo/)
 
 ***Conclusions***
 1. Decision made to switch focus to an air cooled system first.
-	 * Design is more simplistic and may be a part of a more complicated design in the future. If it is determined that a more complicated design is needed, then research from an air cooled system be used as well. I.E. may have some type of integration between water and air cooled system. Therefore, this seems the most time efficient route to start with.
+	 * Design is more simplistic and may be a part of a more complicated design in the future. If it is determined that a more complicated design is needed, then research from a water cooled system be utilized as well. I.E. may have some type of integration between water and air cooled system. Therefore, this seems the most time efficient route to start with.
 	 * The idea was to start here and if a greater need was determined after further investigation and calculation then move to a more complicated system.
 	 *  Concerns of water system intake pipe and exit pipe creating drag would be avoided if successful.
 	 * It also worth mentioning that a typical water pump used in a computer cooling system was found to draw 19 Watts and the fans that we have looked into using would only draw approximately 7.4 W with all three combined. Technical data: [Arctic Fan](https://www.arctic.ac/us_en/p12.html), [Cooler Master Heat Sink Fan](https://www.coolermaster.com/catalog/coolers/cpu-air-coolers/hyper-212-evo/), [Pump](https://www.amazon.com/BXQINLENX-DC12V-Cooling-Exchanger-Cooler/dp/B01H1BE4VQ/ref=sr_1_7?crid=287DINFZONEG9&keywords=water%20cooling%20pump&qid=1585513800&sprefix=water%20cooling%20,aps,194&sr=8-7)
