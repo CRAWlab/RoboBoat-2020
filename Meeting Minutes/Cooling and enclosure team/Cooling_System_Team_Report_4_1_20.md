@@ -9,10 +9,10 @@
 3. Treat the lake or outside air from atmosphere as a thermal energy reservoir
 	* Can absorb finite amounts of heat without undergoing any change in temperature.
   	Therefore, it can be assumed that new cool water or air coming into the system would not be affected by old warm water exiting the system even though they are coming from the same body of water.
-	* Also, incoming water can be assumed to be approximately 80&deg;F and incoming air approximately 90&deg;F. 
+	* Also, incoming water can be assumed to be approximately 80&deg;F and incoming air approximately 88&deg;F. 
 	* The water temperature was approximated by the reported average salt water temp at Daytona Beach Florida in the following link: [Water temp historical average](https://www.currentresults.com/Oceans/Temperature/daytona-beach-average-water-temperature.php)
 	 * The air temperature was approximated by reviewing the historical average during June from the 22nd -28th here:[Air temp historical average](https://www.accuweather.com/en/us/daytona-beach/32114/june-weather/328173)
-	* The above implies that the incoming water or air could be expected to remain at a constant temperature of approximately 80&deg;F or 90&deg;F, respectively.
+	* The above implies that the incoming water or air could be expected to remain at a constant temperature of approximately 80&deg;F or 88&deg;F, respectively.
 4. Temperature range of the Jetson = -13&deg;F to 176&deg;F
 5. Temperature range of the Pyboard = need to get exact model to find
 
