@@ -136,3 +136,23 @@ Recommended Dallas get started with basic ROS tutorials on publishing/subscribin
 
 Joseph will be continuing to work through the ROS book and then with turtlebot tutorials.
 
+# April 14, 2020
+## Meeting Cancelled - Lack of noteworthy advances
+
+# April 21, 2020
+## Meeting Cancelled - Spring Break
+
+# April 28, 2020
+
+Meeting 4/28/2020
+
+## Discussion
+1. Competition changes, interest for 2021 competition (forwarding the funds)
+2. Availability of team members given finals' week and semester wrap-up obligations
+3. PDF of 2019 report will be available soon -- will need to change a lot around new discussion
+4. Since stay-at-home order extended through May 15, team members will be gridlocked on physical collaboration ability until then
+5. Will look at prior years' team videos for how to prepare that part of the digital submissions
+6. No word on the need for a technical design presentation, yet
+7. Website design will likely be done using https://pages.github.com, https://help.github.com/en/github/working-with-github-pages
+8. RoboNation Website opens submissions for digital media competition components this week. May have closing deadline.
+9. Need to have more discussion and collaboration to get these tasks done.
