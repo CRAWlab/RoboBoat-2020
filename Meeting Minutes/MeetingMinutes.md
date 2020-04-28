@@ -136,6 +136,7 @@ Recommended Dallas get started with basic ROS tutorials on publishing/subscribin
 
 Joseph will be continuing to work through the ROS book and then with turtlebot tutorials.
 
+<<<<<<< HEAD
 # April 14, 2020
 ## Meeting Cancelled - Lack of noteworthy advances
 
@@ -156,3 +157,35 @@ Meeting 4/28/2020
 7. Website design will likely be done using https://pages.github.com, https://help.github.com/en/github/working-with-github-pages
 8. RoboNation Website opens submissions for digital media competition components this week. May have closing deadline.
 9. Need to have more discussion and collaboration to get these tasks done.
+=======
+# April 7, 2020
+
+## Meeting Agenda
+1. Open discussion of progress, suggest new ideas
+2. Coordinate based on what everyone has worked on where efforts should be diverted and who should collaborate more closely.
+
+## Discussion
+### RTabMap
+Received clarification about, because the ZED outputs so many different types, RTabMap should expect to see over the topics when remapping. Discussed difference between rectified and unrectified images.
+
+`rosbag` files from the 2019 competition will be available for download soon to build a map using this package. The current `rosbag` files on OwnCloud are only about 15 seconds of data. Nathan and Ben, and maybe Dallas, will work on this more closely on this when Nathan is more available after Thursday.
+
+### Image Labels
+Although it was included in the last report comments, clarification over the current state of the image labeling was provided by Dr. Vaughan. We're still in the process of getting things fixed there, but we have a training set of 2500 images that was used for an agent to label the next 7000 or so. We will need to correct these labels on the 7000 once the issues are resolved.
+
+### Report Expectations and Recap
+Ben reiterated that team members could and should comment on the reports that are available on Github. ***The reports are meant to be an open discussion***.
+
+### Enclosure Upgrade Discussion
+Joseph talked about how Bradley, Thomas, and himself are having regular meetings, and have decided to pursue development of the air-cooled enclosure using hydrophobic mesh membranes. Recent developments included a few part selections and high-level logistics of what is and is not necessary of the cooling. Any airflow is a plus.
+
+Joseph is also working on a SolidWorks Flow simulation to study the airflow and temperature gradients. Ben encouraged him to reach out to Jacob Deshotels, Jacob Randall, and Lane Elder, who have also done work with CFD for the waterjet propulsion system design.
+
+### Tutorial Work, Tentative Collaboration
+* Ben and Nathan (and maybe Dallas): RTabMap
+* Ben and Gerald: Control System Discussion once the navigation stack is mostly configured
+* Joseph, Andrew, Bradley, Thomas: Enclosure Development
+* Dallas, Gerald, Nathan: ROS Wiki Tutorials -- Publisher/Subscriber, Navigation (Husky, Heron, Turtlebot)
+
+### Meeting 4/14/2020: Undecided
+>>>>>>> origin/master
