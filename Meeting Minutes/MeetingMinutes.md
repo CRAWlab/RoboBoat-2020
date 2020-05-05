@@ -136,28 +136,6 @@ Recommended Dallas get started with basic ROS tutorials on publishing/subscribin
 
 Joseph will be continuing to work through the ROS book and then with turtlebot tutorials.
 
-<<<<<<< HEAD
-# April 14, 2020
-## Meeting Cancelled - Lack of noteworthy advances
-
-# April 21, 2020
-## Meeting Cancelled - Spring Break
-
-# April 28, 2020
-
-Meeting 4/28/2020
-
-## Discussion
-1. Competition changes, interest for 2021 competition (forwarding the funds)
-2. Availability of team members given finals' week and semester wrap-up obligations
-3. PDF of 2019 report will be available soon -- will need to change a lot around new discussion
-4. Since stay-at-home order extended through May 15, team members will be gridlocked on physical collaboration ability until then
-5. Will look at prior years' team videos for how to prepare that part of the digital submissions
-6. No word on the need for a technical design presentation, yet
-7. Website design will likely be done using https://pages.github.com, https://help.github.com/en/github/working-with-github-pages
-8. RoboNation Website opens submissions for digital media competition components this week. May have closing deadline.
-9. Need to have more discussion and collaboration to get these tasks done.
-=======
 # April 7, 2020
 
 ## Meeting Agenda
@@ -187,5 +165,47 @@ Joseph is also working on a SolidWorks Flow simulation to study the airflow and 
 * Joseph, Andrew, Bradley, Thomas: Enclosure Development
 * Dallas, Gerald, Nathan: ROS Wiki Tutorials -- Publisher/Subscriber, Navigation (Husky, Heron, Turtlebot)
 
-### Meeting 4/14/2020: Undecided
->>>>>>> origin/master
+# April 14, 2020
+## Meeting Cancelled - Lack of noteworthy advances
+
+# April 21, 2020
+## Meeting Cancelled - Spring Break
+
+# April 28, 2020
+
+## Discussion
+1. Competition changes, interest for 2021 competition (forwarding the funds)
+2. Availability of team members given finals' week and semester wrap-up obligations
+3. PDF of 2019 report will be available soon -- will need to change a lot around new discussion
+4. Since stay-at-home order extended through May 15, team members will be gridlocked on physical collaboration ability until then
+5. Will look at prior years' team videos for how to prepare that part of the digital submissions
+6. No word on the need for a technical design presentation, yet
+7. Website design will likely be done using https://pages.github.com, https://help.github.com/en/github/working-with-github-pages
+8. RoboNation Website opens submissions for digital media competition components this week. May have closing deadline.
+9. Need to have more discussion and collaboration to get these tasks done.
+
+# May 5, 2020
+## Deadlines
+Talked about the new deadlines RoboNation has outlined via email:
+
+### REQUIRED
+1. Team Information: DUE May 22, 2020
+2. Advisor Information: DUE May 22, 2020
+3. Website: DUE June 7, 2020
+* Gerald and Ben, perhaps more, will be collaborating on this the morning of May 6, 2020. We will host Zoom calls throughout this process. Will be working using Github website tools.
+
+4. Technical Design Report: DUE June 21, 2020
+* Aiming for a first draft out to Dr. Vaughan sometime during first week of June.
+
+5. Team Video: DUE June 28, 2020
+* Brief introduction of team members. Does not focus on the boat design.
+
+### OPTIONAL
+1. Create a Task: DUE July 5, 2020
+2. Systems Engineering Paper: DUE July 12, 2020
+3. Resume/CV: Rolling Deadline
+
+### Miscellaneous
+1. There will be an online awards ceremony held (tentatively) during the week of July 26, 2020.
+2. There will be a video call this week hosted by RoboNation to go over submission requirements. To be held on either May 7 or 8.
+3. Registration refund or forward to 2021 competition needs to be filled out by May 11, 2020.
