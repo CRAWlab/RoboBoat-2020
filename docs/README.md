@@ -15,7 +15,7 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 <p align="center">
 	<img width="20%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
 	<b style="text-align:center;">Dr. Joshua Vaughan</b><br>
-	<p style="text-align:center;">Associate Professor of Mechanical Engineering</p><br>
+	<p style="text-align:center;">Associate Professor, Mech. Engineering</p><br>
 	<i style="text-align:center;">joshua.vaughan@louisiana.edu</i><br>
 </p>
 
@@ -26,14 +26,14 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 	<strong style="text-align:center;">Captain</strong><br>
 	<img width="100%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
 	<b style="text-align:center;">Benjamin Armentor</b><br>
-	<p style="text-align:center;">Master's Student, Mechanical Engineering</p><br>
+	<p style="text-align:center;">Master's Student, Mech. Engineering</p><br>
 	<i style="text-align:center;">benarmentor@gmail.com</i><br>
 </p>
 <p style="float:left;text-align:center; width: 20%; margin-right: 20%; margin-left: 0%; margin-bottom: 0.5em;">
 	<strong style="text-align:center;">Vice Captain</strong><br>
 	<img width="100%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
 	<b style="text-align:center;">Joseph Stevens</b><br>
-	<p style="text-align:center;">Mechanical Engineering, Junior</p><br>
+	<p style="text-align:center;">Mech. Engineering, Junior</p><br>
 	<i style="text-align:center;">TBD@something.com</i><br>
 </p>
 
