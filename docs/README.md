@@ -76,58 +76,40 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 	<i style="text-align:center;">TBD@something.com</i><br>
 </p>
 
-### Gerald
-* Picture Received: Yes
-* Email Received: Yes
-* Phone Received: Yes
-
-### Ben
-* Picture Received: Yes
-* Email Received: Yes
-* Phone Received: Yes
-
 ### Dallas
 * Picture Received: No
-* Email Received: Yes
-* Phone Received: Yes
 
 ### Bradley
 * Picture Received: No
 * Email Received: No
-* Phone Received: No
-
-### Thomas
-* Picture Received: Yes
-* Email Received: Yes
-* Phone Received: No
 
 ### Andrew
 * Picture Received: No
 * Email Received: No
-* Phone Received: No
 
 ### Nathan
 * Picture Received: No
 * Email Received: No
-* Phone Received: No
 
 ### Joseph
 * Picture Received: No
 * Email Received: No
-* Phone Received: No
 
-## Media
-### Pictures
-### Video
-### Other
-#### Above taken during development of ASV
-## List of Sponsors with logos
+<h2 style="text-align:center;">Design Changes</h2>
+The main focus of this year's entry was a code cleanup and new control strategy. Unfortunately, the 2020 RoboBoat in-person competition has been cancelled, so this design will not get to physically compete. This, along with sanctions placed by our state and local governments and university, has stifled some of the manufacturing improvements to the design, but the details are flushed out in the documentation.
+
+The 2020 Ragin' Cajuns RoboBoat still uses [ROS](http://wiki.ros.org/) as the protocol between the computer networks. We have improved the computer vision system by adding an additional [ZED Stereo Camera](https://www.stereolabs.com/zed/). We have also worked on our image classifier with a new training set. Lastly, the control code has been overhauled to use Model Predictive Control. This control method enables mathematically optimal control by minimizing a cost function that we define.
+
+<h2 style="text-align:center;">Development and Testing</h2>
+
+<h2 style="text-align:center;">Documentation</h2>
+* Technical Design Report (to be linked soon)
+* Team Video (to be linked soon)
+
+*****
 
 <h1 style="text-align:center;">2019 Ragin' Cajuns</h1>
-
-<!-- Coach -->
 <h2 style="text-align:center;">2019 Team Members</h2>
-
 <h3 style="text-align:center;">Captain</h3>
 <p align="center">
 	<img width="20%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
@@ -153,9 +135,44 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 </p>
 
 *****
+<h2 style="text-align:center;">Development and Testing</h2>
+<!-- Row 1 -->
+<div style="float:left;text-align:center; width: 30%; margin-right: 10%; margin-left: 10%">
+	<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/32882767317/" title="RoboBoat Pseudo-FBD Sketch II"><img src="https://live.staticflickr.com/65535/32882767317_55f7bd69bb_5k.jpg" alt="RoboBoat Pseudo-FBD Sketch II"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+<div style="float:left;text-align:center; width: 30%; margin-right: 10%; margin-left: 0%">
+	<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/48135381943/in/album-72157707215763765/" title="Not a bad first year"><img src="https://live.staticflickr.com/65535/48135381943_32588c5e1c_3k.jpg" alt="Not a bad first year"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+<div style="float:left;text-align:center; width: 30%; margin-right: 10%; margin-left: 0%">
+	<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/47594323382/in/album-72157707215763765/" title="RoboBoat Electronics"><img src="https://live.staticflickr.com/65535/47594323382_fbe1c21973_3k.jpg" alt="RoboBoat Electronics"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div><br>
 
+<!-- Row 2 -->
+<div style="float:left;text-align:center; width: 30%; margin-right: 10%; margin-left: 10%">
+	<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/48135464462/" title="2019 International RoboBoat Competition - 21"><img src="https://live.staticflickr.com/65535/48135464462_603cebba84_3k.jpg" alt="2019 International RoboBoat Competition - 21"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+<div style="float:left;text-align:center; width: 30%; margin-right: 10%; margin-left: 0%">
+	<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/46744293214/in/album-72157707215763765/" title="RoboBoat hull fabrication"><img src="https://live.staticflickr.com/7884/46744293214_a94d7a7539_3k.jpg" alt="RoboBoat hull fabrication"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+<div style="float:left;text-align:center; width: 30%; margin-right: 10%; margin-left: 0%">
+	<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/48135405193/in/photostream/" title="2019 International RoboBoat Competition - 8"><img src="https://live.staticflickr.com/65535/48135405193_ed3bd1bae9_3k.jpg" alt="2019 International RoboBoat Competition - 8"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div><br>
+
+<!-- Row 3 -->
+<div style="float:left;text-align:center; width: 30%; margin-right: 10%; margin-left: 10%">
+	<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/48097796362/in/album-72157707215763765/" title="Sunny Thursday morning at RoboBoat"><img src="https://live.staticflickr.com/65535/48097796362_1b4d12c5ac_3k.jpg" alt="Sunny Thursday morning at RoboBoat"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+<div style="float:left;text-align:center; width: 30%; margin-right: 10%; margin-left: 0%">
+	<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/48135395133/in/album-72157707215763765/" title="2019 International RoboBoat Competition - 57"><img src="https://live.staticflickr.com/65535/48135395133_38288a4c17_3k.jpg" alt="2019 International RoboBoat Competition - 57"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+<div style="float:left;text-align:center; width: 30%; margin-right: 10%; margin-left: 0%">
+	<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/48135356281/in/album-72157707215763765/" title="2019 International RoboBoat Competition - 87"><img src="https://live.staticflickr.com/65535/48135356281_76ecb7d580_3k.jpg" alt="2019 International RoboBoat Competition - 87"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+<h2 style="text-align:center;">Documentation</h2>
 * [Technical Design Report](ULL_RB19_TDR.pdf)
 * [Team Video](https://www.youtube.com/watch?v=DXaP6OPKAoY&feature=youtu.be)
+
+## List of Sponsors with logos
 
 ## Contact Us
 * Email: benarmentor@gmail.com
