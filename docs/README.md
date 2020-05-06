@@ -4,6 +4,13 @@
 Welcome to the [University of Louisiana at Lafayette](https://louisiana.edu)'s entry into the 
 [2020 RoboBoat competition](https://roboboat.org). This is Ragin' Cajuns' second design submission to RoboBoat.
 
+<p style="float:left;text-align:center; width: 30%; margin-right: 10%; margin-left: 10%">
+    <a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/48428302362/in/photostream/" title="More Pool Testing - 3"><img src="https://live.staticflickr.com/65535/48428302362_ecf03cd3fd_5k.jpg" width="4896" height="3264" alt="More Pool Testing - 3"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</p>
+<p style="float:left;text-align:center; width: 30%; margin-right: 10%; margin-left: 0%">
+    <a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/48135383553/" title="2019 International RoboBoat Competition - 125"><img src="https://live.staticflickr.com/65535/48135383553_690469da5a_5k.jpg" width="4896" height="3264" alt="2019 International RoboBoat Competition - 125"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</p><br>
+
 Our team is coached by [Dr. Joshua Vaughan](https://userweb.ucs.louisiana.edu/~jev9637/people.html), an Associate Professor at the University of Louisiana at Lafayette. This year's Ragin' Cajun RoboBoat Team members are all [Mech. Engineering](https://mche.louisiana.edu/) students from Dr. Vaughan's research group, [C.R.A.W.LAB](https://userweb.ucs.louisiana.edu/~jev9637/index.html).
 
 The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groundwork for us to build on, were all graduating seniors in Mech. Engineering. While all of the students are in the same discipline, the 2020 Ragin' Cajuns have students at many different points in the program. This has allowed for many great mentoring opportunities within the team.
@@ -118,7 +125,6 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 
 <h1 style="text-align:center;">2019 Ragin' Cajuns</h1>
 
-*****
 <!-- Coach -->
 <h2 style="text-align:center;">Team</h2>
 <h3 style="text-align:center;">Coach</h3>
@@ -128,13 +134,15 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 	<i style="text-align:center;">joshua.vaughan@louisiana.edu</i><br>
 </p>
 
+*****
+
 <h3 style="text-align:center;">Team Members</h3>
 <p align="center">
 	<img width="20%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
 	<b style="text-align:center;">Christian Gary</b><br>
 	<i style="text-align:center;">TBD@something.com</i><br>
 </p>
-<br>
+
 <!-- Row 1 -->
 <p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 10%">
 	<img width="100%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
@@ -154,7 +162,7 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 
 *****
 
-* [Technical Design Report](ULL_RB19_TDR.pdf):
+* [Technical Design Report](ULL_RB19_TDR.pdf)
 * [Team Video](https://www.youtube.com/watch?v=DXaP6OPKAoY&feature=youtu.be)
 
 ## Contact Us
