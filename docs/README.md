@@ -4,9 +4,9 @@
 Welcome to the [University of Louisiana at Lafayette](https://louisiana.edu)'s entry into the 
 [2020 RoboBoat competition](https://roboboat.org). This is Ragin' Cajuns' second design submission to RoboBoat.
 
-Our team is coached by [Dr. Joshua Vaughan](https://userweb.ucs.louisiana.edu/~jev9637/people.html), an Associate Professor at the University of Louisiana at Lafayette. This year's Ragin' Cajun RoboBoat Team members are all [Mechanical Engineering](https://mche.louisiana.edu/) students from Dr. Vaughan's research group, [C.R.A.W.LAB](https://userweb.ucs.louisiana.edu/~jev9637/index.html).
+Our team is coached by [Dr. Joshua Vaughan](https://userweb.ucs.louisiana.edu/~jev9637/people.html), an Associate Professor at the University of Louisiana at Lafayette. This year's Ragin' Cajun RoboBoat Team members are all [Mech. Engineering](https://mche.louisiana.edu/) students from Dr. Vaughan's research group, [C.R.A.W.LAB](https://userweb.ucs.louisiana.edu/~jev9637/index.html).
 
-The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groundwork for us to build on, were all graduating seniors in Mechanical Engineering. While all of the students are in the same discipline, the 2020 Ragin' Cajuns have students at many different points in the program. This has allowed for many great mentoring opportunities within the team.
+The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groundwork for us to build on, were all graduating seniors in Mech. Engineering. While all of the students are in the same discipline, the 2020 Ragin' Cajuns have students at many different points in the program. This has allowed for many great mentoring opportunities within the team.
 
 *****
 
@@ -15,28 +15,28 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 <p align="center">
 	<img width="20%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
 	<b style="text-align:center;">Dr. Joshua Vaughan</b><br>
-	<p style="text-align:center;">Associate Professo</p><br>
-	<p style="text-align:center;">Mechanical Engineering</p><br>
+	<p style="text-align:center;">Associate Professor</p><br>
+	<p style="text-align:center;">Mech. Engineering</p><br>
 	<i style="text-align:center;">joshua.vaughan@louisiana.edu</i><br>
 </p>
 
 *****
 
 <h3 style="text-align:center;">Team Members</h3>
-<p style="float:left;text-align:center; width: 20%; margin-right: 20%; margin-left: 20%; margin-bottom: 0.5em;">
+<p style="float:left;text-align:center; width: 30%; margin-right: 13.33%; margin-left: 13.33%">
 	<strong style="text-align:center;">Captain</strong><br>
-	<img width="100%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
+	<img width="67%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
 	<b style="text-align:center;">Benjamin Armentor</b><br>
 	<p style="text-align:center;">Master's Student</p><br>
-	<p style="text-align:center;">Mechanical Engineering</p><br>
+	<p style="text-align:center;">Mech. Engineering</p><br>
 	<i style="text-align:center;">benarmentor@gmail.com</i><br>
 </p>
-<p style="float:left;text-align:center; width: 20%; margin-right: 20%; margin-left: 0%; margin-bottom: 0.5em;">
+<p style="float:left;text-align:center; width: 30%; margin-right: 13.33%; margin-left: 0%">
 	<strong style="text-align:center;">Vice Captain</strong><br>
-	<img width="100%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
+	<img width="67%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
 	<b style="text-align:center;">Joseph Stevens</b><br>
-	<p style="text-align:center;">Undergraduate Student></p><br>
-	<p style="text-align:center;">Mechanical Engineering</p><br>
+	<p style="text-align:center;">Undergraduate Student</p><br>
+	<p style="text-align:center;">Mech. Engineering</p><br>
 	<i style="text-align:center;">TBD@something.com</i><br>
 </p>
 
