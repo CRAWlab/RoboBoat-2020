@@ -22,8 +22,8 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 
 <h3 style="text-align:center;">Team Members</h3>
 
+<p align="center">
 <div class="row">
-
   <div class="column">
   	<h4 style="text-align:center;">Captain</h4>
     <img width="20%" src="Figures/MemberPhotos/BenjaminArmentor.jpg"><br>
@@ -36,8 +36,8 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
     <img width="20%" src="Figures/MemberPhotos/BenjaminArmentor.jpg"><br>
     <b style="text-align:center;">Joseph Stevens</b><br>
   </div>
-
 </div>
+</p>
 
 <!-- <p align="center">
     <img width="49%" src="figures/Workspace_curvfit_sample_at_0.0setpoint.png" alt="MCHE201 Stepper Motor Hardware Setup"/>
