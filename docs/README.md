@@ -13,9 +13,9 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 <h2 style="text-align:center;">Ragin' Cajuns RoboBoat Team</h2>
 <h3 style="text-align:center;">Coach</h3>
 <p align="center">
-    <img width="33%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
-    <strong style="text-align:center;">Dr. Joshua Vaughan</strong><br>
-    <h4 style="text-align:center;">joshua.vaughan@louisiana.edu</h4><br>
+    <img width="20%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
+    <b style="text-align:center;">Dr. Joshua Vaughan</b><br>
+    <i style="text-align:center;">joshua.vaughan@louisiana.edu</i><br>
 </p>
 <h3 style="text-align:center;">Team Members</h3>
 
