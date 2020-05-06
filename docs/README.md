@@ -115,7 +115,47 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 ### Other
 #### Above taken during development of ASV
 ## List of Sponsors with logos
-## Archive of Previous Vehicles, Design Reports
+
+<h1 style="text-align:center;">2019 Ragin' Cajuns</h1>
+
+*****
+<!-- Coach -->
+<h2 style="text-align:center;">Team</h2>
+<h3 style="text-align:center;">Coach</h3>
+<p align="center">
+	<img width="20%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
+	<b style="text-align:center;">Dr. Joshua Vaughan</b><br>
+	<i style="text-align:center;">joshua.vaughan@louisiana.edu</i><br>
+</p>
+
+<h3 style="text-align:center;">Team Members</h3>
+<p align="center">
+	<img width="20%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
+	<b style="text-align:center;">Christian Gary</b><br>
+	<i style="text-align:center;">TBD@something.com</i><br>
+</p>
+<br>
+<!-- Row 1 -->
+<p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 10%">
+	<img width="100%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
+	<b style="text-align:center;">Luke Matt</b><br>
+	<i style="text-align:center;">TBD@something.com</i><br>
+</p>
+<p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 0%">
+	<img width="100%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
+	<b style="text-align:center;">Kaleb Gautreaux</b><br>
+	<i style="text-align:center;">TBD@something.com</i><br>
+</p>
+<p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 0%">
+	<img width="100%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
+	<b style="text-align:center;">Grant Bellard</b><br>
+	<i style="text-align:center;">TBD@something.com</i><br>
+</p>
+
+*****
+
+* [Technical Design Report](ULL_RB19_TDR.pdf):
+* [Team Video](https://www.youtube.com/watch?v=DXaP6OPKAoY&feature=youtu.be)
 
 ## Contact Us
 * Email: benarmentor@gmail.com
