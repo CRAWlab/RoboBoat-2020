@@ -27,7 +27,7 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 
 *****
 <!-- Captains -->
-<h3 style="text-align:center;">Team Members</h3>
+<h3 style="text-align:center;">2020 Team Members</h3>
 <p style="float:left;text-align:center; width: 20%; margin-right: 20%; margin-left: 20%">
 	<strong style="text-align:center;">Captain</strong><br>
 	<img width="100%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
@@ -126,17 +126,9 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 <h1 style="text-align:center;">2019 Ragin' Cajuns</h1>
 
 <!-- Coach -->
-<h2 style="text-align:center;">Team</h2>
-<h3 style="text-align:center;">Coach</h3>
-<p align="center">
-	<img width="20%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
-	<b style="text-align:center;">Dr. Joshua Vaughan</b><br>
-	<i style="text-align:center;">joshua.vaughan@louisiana.edu</i><br>
-</p>
+<h2 style="text-align:center;">2019 Team Members</h2>
 
-*****
-
-<h3 style="text-align:center;">Team Members</h3>
+<h3 style="text-align:center;">Captain</h3>
 <p align="center">
 	<img width="20%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
 	<b style="text-align:center;">Christian Gary</b><br>
