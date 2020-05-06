@@ -168,6 +168,7 @@ The 2020 Ragin' Cajuns RoboBoat still uses [ROS](http://wiki.ros.org/) as the pr
 <div style="float:left;text-align:center; width: 30%; margin-right: 2.5%; margin-left: 0%">
 	<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/48135356281/in/album-72157707215763765/" title="2019 International RoboBoat Competition - 87"><img src="https://live.staticflickr.com/65535/48135356281_76ecb7d580_3k.jpg" alt="2019 International RoboBoat Competition - 87"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
+<br>
 <h2 style="text-align:center;">Documentation</h2>
 * [Technical Design Report](ULL_RB19_TDR.pdf)
 * [Team Video](https://www.youtube.com/watch?v=DXaP6OPKAoY&feature=youtu.be)
