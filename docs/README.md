@@ -13,9 +13,9 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 <h2 style="text-align:center;">Ragin' Cajuns RoboBoat Team</h2>
 <h3 style="text-align:center;">Coach</h3>
 <p align="center">
-    <img width="20%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
-    <b style="text-align:center;">Dr. Joshua Vaughan</b><br>
-    <i style="text-align:center;">joshua.vaughan@louisiana.edu</i><br>
+	<img width="20%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
+	<b style="text-align:center;">Dr. Joshua Vaughan</b><br>
+	<i style="text-align:center;">joshua.vaughan@louisiana.edu</i><br>
 </p>
 
 *****
@@ -23,26 +23,25 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 <h3 style="text-align:center;">Team Members</h3>
 
 <p align="center">
-<div class="row">
-  <div class="column">
-  	<h4 style="text-align:center;">Captain</h4>
-    <img width="20%" src="Figures/MemberPhotos/BenjaminArmentor.jpg"><br>
-    <b style="text-align:center;">Benjamin Armentor</b><br>
-    <i style="text-align:center;">benarmentor@gmail.com</i><br>
-  </div>
-
-  <div class="column">
-  	<h4 style="text-align:center;">Vice Captain</h4>
-    <img width="20%" src="Figures/MemberPhotos/BenjaminArmentor.jpg"><br>
-    <b style="text-align:center;">Joseph Stevens</b><br>
-  </div>
-</div>
-</p>
+	<div class="row">
+		<div class="column">
+			<h4 style="text-align:center;">Captain</h4>
+			<img width="20%" src="Figures/MemberPhotos/BenjaminArmentor.jpg"/><br>
+			<b style="text-align:center;">Benjamin Armentor</b><br>
+			<i style="text-align:center;">benarmentor@gmail.com</i><br>
+		</div>
+	<div class="column">
+		<h4 style="text-align:center;">Vice Captain</h4>
+		<img width="20%" src="Figures/MemberPhotos/BenjaminArmentor.jpg"/><br>
+		<b style="text-align:center;">Joseph Stevens</b><br>
+		</div>
+	</div>
+</p><br>
 
 <!-- <p align="center">
-    <img width="49%" src="figures/Workspace_curvfit_sample_at_0.0setpoint.png" alt="MCHE201 Stepper Motor Hardware Setup"/>
-    <img width="49%" src="figures/Curvfit_sample_at_0.0setpoint.png" alt="MCHE201 Stepper Motor Hardware Setup"/><br>
-    <strong>Figure 1: Curve fits at setpoint 0.0m</strong>
+	<img width="49%" src="figures/Workspace_curvfit_sample_at_0.0setpoint.png" alt="MCHE201 Stepper Motor Hardware Setup"/>
+	<img width="49%" src="figures/Curvfit_sample_at_0.0setpoint.png" alt="MCHE201 Stepper Motor Hardware Setup"/><br>
+	<strong>Figure 1: Curve fits at setpoint 0.0m</strong>
 </p> -->
 
 ### Gerald
