@@ -1,4 +1,5 @@
 <h1 style="text-align:center;">Ragin' Cajuns RoboBoat</h1>
+
 *****
 Welcome to the [University of Louisiana at Lafayette](https://louisiana.edu)'s entry into the 
 [2020 RoboBoat competition](https://roboboat.org). This is Ragin' Cajuns' second design submission to RoboBoat.
@@ -6,6 +7,7 @@ Welcome to the [University of Louisiana at Lafayette](https://louisiana.edu)'s e
 Our team is coached by [Dr. Joshua Vaughan](https://userweb.ucs.louisiana.edu/~jev9637/people.html), an Associate Professor at the University of Louisiana at Lafayette. This year's Ragin' Cajun RoboBoat Team members are all [Mechanical Engineering](https://mche.louisiana.edu/) students from Dr. Vaughan's research group, [C.R.A.W.LAB](https://userweb.ucs.louisiana.edu/~jev9637/index.html).
 
 The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groundwork for us to build on, were all graduating seniors in Mechanical Engineering. While all of the students are in the same discipline, the 2020 Ragin' Cajuns have students at many different points in the program. This has allowed for many great mentoring opportunities within the team.
+
 *****
 <h2 style="text-align:center;">Ragin' Cajuns RoboBoat Team</h2>
 <h3 style="text-align:center;">Coach</h3>
