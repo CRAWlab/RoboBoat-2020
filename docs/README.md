@@ -100,7 +100,7 @@ The main focus of this year's entry was a code cleanup and new control strategy.
 
 The 2020 Ragin' Cajuns RoboBoat still uses [ROS](http://wiki.ros.org/) as the protocol between the computer networks. We have improved the computer vision system by adding an additional [ZED Stereo Camera](https://www.stereolabs.com/zed/). We have also worked on our image classifier with a new training set. Lastly, the control code has been overhauled to use Model Predictive Control. This control method enables mathematically optimal control by minimizing a cost function that we define.
 
-<h2 style="text-align:center;">Development and Testing</h2>
+<h2 style="text-align:center;">Development</h2>
 
 <h2 style="text-align:center;">Documentation</h2>
 * Technical Design Report (to be linked soon)
@@ -135,7 +135,8 @@ The 2020 Ragin' Cajuns RoboBoat still uses [ROS](http://wiki.ros.org/) as the pr
 </p>
 
 *****
-<h2 style="text-align:center;">Development and Testing</h2>
+
+<h2 style="text-align:center;">Development</h2>
 <!-- Row 1 -->
 <div style="float:left;text-align:center; width: 30%; margin-right: 2.5%; margin-left: 2.5%">
 	<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/32882767317/" title="RoboBoat Pseudo-FBD Sketch II"><img src="https://live.staticflickr.com/65535/32882767317_55f7bd69bb_5k.jpg" alt="RoboBoat Pseudo-FBD Sketch II"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -169,6 +170,9 @@ The 2020 Ragin' Cajuns RoboBoat still uses [ROS](http://wiki.ros.org/) as the pr
 	<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/48135356281/in/album-72157707215763765/" title="2019 International RoboBoat Competition - 87"><img src="https://live.staticflickr.com/65535/48135356281_76ecb7d580_3k.jpg" alt="2019 International RoboBoat Competition - 87"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 <br>
+
+*****
+
 <h2 style="text-align:center;">Documentation</h2>
 * [Technical Design Report](ULL_RB19_TDR.pdf)
 * [Team Video](https://www.youtube.com/watch?v=DXaP6OPKAoY&feature=youtu.be)
