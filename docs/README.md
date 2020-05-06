@@ -15,6 +15,7 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 <p align="center">
 	<img width="20%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
 	<b style="text-align:center;">Dr. Joshua Vaughan</b><br>
+	<p style="text-align:center;">Associate Professor of Mechanical Engineering</p><br>
 	<i style="text-align:center;">joshua.vaughan@louisiana.edu</i><br>
 </p>
 
@@ -22,40 +23,19 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 
 <h3 style="text-align:center;">Team Members</h3>
 <p style="float:left;text-align:center; width: 20%; margin-right: 20%; margin-left: 20%; margin-bottom: 0.5em;">
-	<b style="text-align:center;">Captain</b><br>
+	<strong style="text-align:center;">Captain</strong><br>
 	<img width="100%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
 	<b style="text-align:center;">Benjamin Armentor</b><br>
+	<p style="text-align:center;">Master's Student, Mechanical Engineering</p><br>
 	<i style="text-align:center;">benarmentor@gmail.com</i><br>
 </p>
-<p style="float:left;text-align:center; width: 20%; margin-right: 20%; margin-bottom: 0.5em;">
-	<b style="text-align:center;">Vice Captain</b><br>
-	<img width="100%" src="Figures/MemberPhotos/BenjaminArmentor.jpg"/><br>
+<p style="float:left;text-align:center; width: 20%; margin-right: 20%; margin-left: 0%; margin-bottom: 0.5em;">
+	<strong style="text-align:center;">Vice Captain</strong><br>
+	<img width="100%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
 	<b style="text-align:center;">Joseph Stevens</b><br>
+	<p style="text-align:center;">Mechanical Engineering, Junior</p><br>
 	<i style="text-align:center;">TBD@something.com</i><br>
 </p>
-
-<!-- <p align="center">
-	<div class="row">
-		<div class="column">
-			<h4 style="text-align:center;">Captain</h4>
-			<img width="20%" src="Figures/MemberPhotos/BenjaminArmentor.jpg"/><br>
-			<b style="text-align:center;">Benjamin Armentor</b><br>
-			<i style="text-align:center;">benarmentor@gmail.com</i><br>
-		</div>
-	<div class="column">
-		<h4 style="text-align:center;">Vice Captain</h4>
-		<img width="20%" src="Figures/MemberPhotos/BenjaminArmentor.jpg"/><br>
-		<b style="text-align:center;">Joseph Stevens</b><br>
-		</div>
-	</div>
-</p><br> -->
-
-
-<!-- <p align="center">
-	<img width="49%" src="figures/Workspace_curvfit_sample_at_0.0setpoint.png" alt="MCHE201 Stepper Motor Hardware Setup"/>
-	<img width="49%" src="figures/Curvfit_sample_at_0.0setpoint.png" alt="MCHE201 Stepper Motor Hardware Setup"/><br>
-	<strong>Figure 1: Curve fits at setpoint 0.0m</strong>
-</p> -->
 
 ### Gerald
 * Picture Received: Yes
