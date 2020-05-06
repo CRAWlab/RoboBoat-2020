@@ -9,11 +9,16 @@ Our team is coached by [Dr. Joshua Vaughan](https://userweb.ucs.louisiana.edu/~j
 The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groundwork for us to build on, were all graduating seniors in Mechanical Engineering. While all of the students are in the same discipline, the 2020 Ragin' Cajuns have students at many different points in the program. This has allowed for many great mentoring opportunities within the team.
 
 *****
+
 <h2 style="text-align:center;">Ragin' Cajuns RoboBoat Team</h2>
 <h3 style="text-align:center;">Coach</h3>
+<p align="center">
+    <img width="33%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
+    <strong style="text-align:center;">Dr. Joshua Vaughan</strong><br>
+    <h4 style="text-align:center;">joshua.vaughan@louisiana.edu</h4><br>
+</p>
+<h3 style="text-align:center;">Team Members</h3>
 
-### Team Contact Information
-## Team Member Information
 ### Gerald
 * Picture Received: Yes
 * Email Received: Yes
@@ -26,8 +31,8 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 
 ### Dallas
 * Picture Received: No
-* Email Received: No
-* Phone Received: No
+* Email Received: Yes
+* Phone Received: Yes
 
 ### Bradley
 * Picture Received: No
@@ -61,3 +66,7 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 #### Above taken during development of ASV
 ## List of Sponsors with logos
 ## Archive of Previous Vehicles, Design Reports
+
+## Contact Us
+* Email: benarmentor@<gmail class="com"></gmail>
+* Phone: 1-(337)-967-6860
