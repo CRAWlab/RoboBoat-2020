@@ -9,7 +9,7 @@ Our team is coached by [Dr. Joshua Vaughan](https://userweb.ucs.louisiana.edu/~j
 The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groundwork for us to build on, were all graduating seniors in Mech. Engineering. While all of the students are in the same discipline, the 2020 Ragin' Cajuns have students at many different points in the program. This has allowed for many great mentoring opportunities within the team.
 
 *****
-
+<!-- Coach -->
 <h2 style="text-align:center;">Ragin' Cajuns RoboBoat Team</h2>
 <h3 style="text-align:center;">Coach</h3>
 <p align="center">
@@ -19,18 +19,53 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 </p>
 
 *****
-
+<!-- Captains -->
 <h3 style="text-align:center;">Team Members</h3>
-<p style="float:left;text-align:center; width: 30%; margin-right: 13.33%; margin-left: 13.33%">
+<p style="float:left;text-align:center; width: 20%; margin-right: 20%; margin-left: 20%">
 	<strong style="text-align:center;">Captain</strong><br>
-	<img width="66%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
+	<img width="100%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
 	<b style="text-align:center;">Benjamin Armentor</b><br>
 	<i style="text-align:center;">benarmentor@gmail.com</i><br>
 </p>
-<p style="float:left;text-align:center; width: 30%; margin-right: 13.33%; margin-left: 0%">
+<p style="float:left;text-align:center; width: 20%; margin-right: 20%; margin-left: 0%">
 	<strong style="text-align:center;">Vice Captain</strong><br>
-	<img width="66%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
+	<img width="100%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
 	<b style="text-align:center;">Joseph Stevens</b><br>
+	<i style="text-align:center;">TBD@something.com</i><br>
+</p>
+<!-- Additional Members -->
+<!-- Row 1 -->
+<br>
+<p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 10%">
+	<img width="100%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
+	<b style="text-align:center;">Gerald Eaglin</b><br>
+	<i style="text-align:center;">geaglin2012@gmail.com</i><br>
+</p>
+<p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 0%">
+	<img width="100%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
+	<b style="text-align:center;">Nathan Madsen</b><br>
+	<i style="text-align:center;">TBD@something.com</i><br>
+</p>
+<p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 0%">
+	<img width="100%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
+	<b style="text-align:center;">Dallas Mitchell</b><br>
+	<i style="text-align:center;">damitchell05@gmail.com</i><br>
+</p>
+<!-- Row 2 -->
+<br>
+<p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 10%">
+	<img width="100%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
+	<b style="text-align:center;">Thomas Poché</b><br>
+	<i style="text-align:center;">pochepower@gmail.com</i><br>
+</p>
+<p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 0%">
+	<img width="100%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
+	<b style="text-align:center;">Andrew Durand</b><br>
+	<i style="text-align:center;">TBD@something.com</i><br>
+</p>
+<p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 0%">
+	<img width="100%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
+	<b style="text-align:center;">Bradley Esté</b><br>
 	<i style="text-align:center;">TBD@something.com</i><br>
 </p>
 
@@ -55,8 +90,8 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 * Phone Received: No
 
 ### Thomas
-* Picture Received: No
-* Email Received: No
+* Picture Received: Yes
+* Email Received: Yes
 * Phone Received: No
 
 ### Andrew
