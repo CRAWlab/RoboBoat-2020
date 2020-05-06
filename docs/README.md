@@ -21,13 +21,13 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 *****
 
 <h3 style="text-align:center;">Team Members</h3>
-<p style="float:left;text-align:center; width: 20%; margin-right: 25%; margin-bottom: 0.5em;">
+<p style="float:left;text-align:center; width: 20%; margin-right: 20%; margin-left: 20%; margin-bottom: 0.5em;">
 	<b style="text-align:center;">Captain</b><br>
-	<img width="100%" src="Figures/MemberPhotos/BenjaminArmentor.jpg"/><br>
+	<img width="100%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
 	<b style="text-align:center;">Benjamin Armentor</b><br>
 	<i style="text-align:center;">benarmentor@gmail.com</i><br>
 </p>
-<p style="float:left;text-align:center; width: 20%; margin-right: 25%; margin-bottom: 0.5em;">
+<p style="float:left;text-align:center; width: 20%; margin-right: 20%; margin-bottom: 0.5em;">
 	<b style="text-align:center;">Vice Captain</b><br>
 	<img width="100%" src="Figures/MemberPhotos/BenjaminArmentor.jpg"/><br>
 	<b style="text-align:center;">Joseph Stevens</b><br>
