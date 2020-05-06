@@ -22,7 +22,7 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 
 <h3 style="text-align:center;">Team Members</h3>
 
- <div class="row">
+<div class="row">
 
   <div class="column">
   	<h4 style="text-align:center;">Captain</h4>
