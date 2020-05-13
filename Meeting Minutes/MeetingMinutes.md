@@ -209,3 +209,30 @@ Talked about the new deadlines RoboNation has outlined via email:
 1. There will be an online awards ceremony held (tentatively) during the week of July 26, 2020.
 2. There will be a video call this week hosted by RoboNation to go over submission requirements. To be held on either May 7 or 8.
 3. Registration refund or forward to 2021 competition needs to be filled out by May 11, 2020.
+
+# May 12, 2020
+1. The guidelines for the digital submissions can be found at: https://robonation.org/app/uploads/sites/3/2019/10/Team-Submissions_RB20-Online.pdf. The major changes from last week's understanding is that the video is supposed serve as a substitute for the in-person competition presentation as well.
+
+2. Gerald, Ben, and Nathan will work on the controller development using the Clearpath Heron as a base. Dallas also, possibly.
+
+> ***BA*** Today, I confirmed that my Heron installation works and launches, and I outlined the launch process and what nodes get launched by the Heron. I plan on working on this more tomorrow (5/13) while my simulations are running. I know the last time you came into town, you mentioned that you were working on a RoboBoat Gazebo simulation. Do you have the models ready to create a custom robot?
+
+3. Bradley, Joseph, and Thomas will continue working on development of the enclosure. The goal is to have some initial CAD modeling done for next week so, if needed, their efforts can be devoted to other aspects of the system and helping to write.
+
+4. I'm waiting on the following media content for the website:
+	a. 2019 team member pictures and emails
+	b. Email for Andrew
+	c. Pictures of Andrew, Nathan, Dallas
+
+## Due Dates
+### Required
+1. Team Information - DUE May 22, 2020
+2. Advisor Information - DUE May 22, 2020
+3. Website - DUE June 7, 2020
+4. Technical Design Report - DUE June 21, 2020
+5. Video - DUE June 28, 2020
+
+### OPTIONAL SUBMISSIONS
+6. Create a Task - DUE July 5, 2020
+7. Systems Engineering Paper - DUE July 12, 2020
+8. Resume / Curriculum Vitae (CV) - Rolling Deadline
