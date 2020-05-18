@@ -30,38 +30,39 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 <h3 style="text-align:center;">2020 Team Members</h3>
 <p style="float:left;text-align:center; width: 20%; margin-right: 20%; margin-left: 20%">
 	<strong style="text-align:center;">Captain</strong><br>
-	<img width="100%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
+	<img width="100%" src="Figures/MemberPhotos/BenjaminArmentor.jpg"/><br>
 	<b style="text-align:center;">Benjamin Armentor</b><br>
 	<i style="text-align:center;">benarmentor@gmail.com</i><br>
 </p>
 <p style="float:left;text-align:center; width: 20%; margin-right: 20%; margin-left: 0%">
 	<strong style="text-align:center;">Vice Captain</strong><br>
-	<img width="100%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
+	<img width="100%" src="Figures/MemberPhotos/JosephStevens.jpg"/><br>
 	<b style="text-align:center;">Joseph Stevens</b><br>
-	<i style="text-align:center;">TBD@something.com</i><br>
+	<i style="text-align:center;">joseph.stevens1@louisiana.edu</i><br>
 </p>
 <!-- Additional Members -->
 <!-- Row 1 -->
 <br>
 <p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 10%">
-	<img width="100%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
+	<img width="100%" src="Figures/MemberPhotos/GeraldEaglin.png"/><br>
 	<b style="text-align:center;">Gerald Eaglin</b><br>
 	<i style="text-align:center;">geaglin2012@gmail.com</i><br>
 </p>
 <p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 0%">
 	<img width="100%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
 	<b style="text-align:center;">Nathan Madsen</b><br>
-	<i style="text-align:center;">TBD@something.com</i><br>
+	<i style="text-align:center;">nathan.madsen1@louisiana.edu</i><br>
 </p>
 <p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 0%">
 	<img width="100%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
 	<b style="text-align:center;">Dallas Mitchell</b><br>
 	<i style="text-align:center;">damitchell05@gmail.com</i><br>
 </p>
+
 <!-- Row 2 -->
 <br>
 <p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 10%">
-	<img width="100%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
+	<img width="100%" src="Figures/MemberPhotos/ThomasPoche.jpg"/><br>
 	<b style="text-align:center;">Thomas Poché</b><br>
 	<i style="text-align:center;">pochepower@gmail.com</i><br>
 </p>
@@ -71,17 +72,13 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 	<i style="text-align:center;">TBD@something.com</i><br>
 </p>
 <p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 0%">
-	<img width="100%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
-	<b style="text-align:center;">Bradley Esté</b><br>
-	<i style="text-align:center;">TBD@something.com</i><br>
+	<img width="100%" src="Figures/MemberPhotos/BradleyEste.jpg"/><br>
+	<b style="text-align:center;">Bradley Este</b><br>
+	<i style="text-align:center;">bradleyeste@icloud.com</i><br>
 </p>
 
 ### Dallas
 * Picture Received: No
-
-### Bradley
-* Picture Received: No
-* Email Received: No
 
 ### Andrew
 * Picture Received: No
@@ -89,16 +86,11 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 
 ### Nathan
 * Picture Received: No
-* Email Received: No
-
-### Joseph
-* Picture Received: No
-* Email Received: No
 
 <h2 style="text-align:center;">Design Changes</h2>
 The main focus of this year's entry was a code cleanup and new control strategy. Unfortunately, the 2020 RoboBoat in-person competition has been cancelled, so this design will not get to physically compete. This, along with sanctions placed by our state and local governments and university, has stifled some of the manufacturing improvements to the design, but the details are flushed out in the documentation.
 
-The 2020 Ragin' Cajuns RoboBoat still uses [ROS](http://wiki.ros.org/) as the protocol between the computer networks. We have improved the computer vision system by adding an additional [ZED Stereo Camera](https://www.stereolabs.com/zed/). We have also worked on our image classifier with a new training set. Lastly, the control code has been overhauled to use Model Predictive Control. This control method enables mathematically optimal control by minimizing a cost function that we define.
+The 2020 Ragin' Cajuns RoboBoat still uses [ROS](http://wiki.ros.org/) as the computer network's communication platform. We have improved the computer vision system by adding an additional [ZED Stereo Camera](https://www.stereolabs.com/zed/). We have also worked on our image classifier with a new training set. Lastly, the control code has been overhauled to use Model Predictive Control. This control method enables mathematically optimal control by minimizing a cost function that we define.
 
 <h2 style="text-align:center;">Development</h2>
 
