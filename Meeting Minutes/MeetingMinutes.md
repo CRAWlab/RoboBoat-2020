@@ -236,3 +236,46 @@ Talked about the new deadlines RoboNation has outlined via email:
 6. Create a Task - DUE July 5, 2020
 7. Systems Engineering Paper - DUE July 12, 2020
 8. Resume / Curriculum Vitae (CV) - Rolling Deadline
+
+# May 19, 2020
+1. Gave a verbal explanation of the two branches I created yesterday and what they're used for.
+	a. Created a `current_software` branch with all of the packages currently on the RoboBoat because there seems to be a disparity between `master` and the boards.
+
+	b. Created a `dev` branch with the Gazebo packages I'm working on.
+
+I explained how cloning the repository should pull all branches, but we will want to keep them separate, and that any commits made to those branches will not show up in Slack channels until the branches are merged to `master`.
+
+2. Discussed the Gazebo simulation, current state, what's left to add.
+	a. I'm going to try using either the previous `roboboat_description` package that wasn't cloning as a new starting point or that ROS package you linked for SolidWorks parts today.
+
+	b. Velocity curve fitting for baseline quadratic drag fits -- equation form should match WAM-V because of hull structure.
+
+	c. Alternatives to `mpc.pytorch` -- will probably try `ACADO` first because I think I was able to get a linear model working. I'm converned about requiring `|v|` in one of the linear drag terms, though, as it does not like to optimize absolute values.
+
+3. Discussed image classifier, how to implement. Gerald and Thomas thought that just running a node that uses Tensorflow, or whatever was used to train the classifier, is how it's done, but I have very little knowledge about this. Dallas could not make this meeting, so I'll discuss with him later today. I did mention to him last week that I have little knowledge about this subject.
+
+4. Enclosure Discussion
+	a. Joseph, Bradley, and Thomas would like some sort of bound on how much "future-proofing" needs to go in the enclosure. How much of the extra space do they need to/want to utilize to add a second Jetson, etc? Although there are only two so far, how different is the footprint of a TX1 vs a TX2 vs TX(i) from generation to generation?
+
+	b. Can enclosure footprint cover up the holes in the hull bridge that are currently used to pass motor control wires? They would still be used, but probably passed from the bottom of the enclosure if so, rather than drilling new holes.
+
+	c. They are really concerned with getting estimates for what their final temperature of the box should be, but since their objective is just "reduce" and not "reduce by X", I've informed them to spec out a fan that fits and does not consume too much power, and calculate "if ambient temp is `x`, boards are emitting `y` through free convection, with volume flow rate `vdot`, what is `qdot` out of the box?" rather than hit a target temp.
+
+	d. Mentioned using a snorkel as cover for inlet and exit holes. I don't think this is a great idea for airflow reasons, but it might not be a huge difference.
+
+	e. Is the max temp reached at 2019 competition a good benchmark for operating temps to base calculations off of?
+
+	f. Will be designed as if we were adding another TX2 to the box.
+5. Website
+	a. Trying to encourage team members of taking pictures doing _whatever_ they're working on to add to website. Planning for next meeting (5/26) to have everyone's webcams on for at least part of it for someone to take a picture of everyone communicating.
+
+	b. Not sure why my picture isn't showing up, but will take a new one to replace. Image file might be corrupted or something.
+
+	c. Going to resize everyone's images to match uniform square. Is there an easier way to do this than just adjusting height/width tags?
+
+	d. Waiting on pictures from Andrew, Nathan.
+
+	e. Did you ever get in contact with the old team? None have responded to my message on Slack.
+
+6. Still shooting for a report draft first week of June. The enclosure team is using this as a target date for their results.
+
