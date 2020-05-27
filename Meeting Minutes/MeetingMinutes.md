@@ -279,3 +279,32 @@ I explained how cloning the repository should pull all branches, but we will wan
 
 6. Still shooting for a report draft first week of June. The enclosure team is using this as a target date for their results.
 
+# May 26, 2020
+
+Andrew and Nathan were not able to attend the meeting due to work. 
+
+1. Discussed where I (Ben) am at with the Gazebo simulation
+	a. Need to correct the position of the pose sensors, but they should be uniquely identified in Gazebo
+
+	b. Need to combine the image data with laser scans in `RTabMap`
+
+	c. Need to spawn buoys to test the image classification running through `darknet_ros`
+
+	d. Need to take classified images and output towards local path planner using way points. Not sure what algorithm yet. Asked Gerald, and he described some of the different ones, but did not explicitly recommend any particular one.
+
+	e. Need to create a controller using `ACADO` that receives info about the local trajectory from the path planner and outputs a `Twist()` msg on `/cmd_vel` or `/cmd_drive`.
+
+	f. Need to map the `Twist()` msg to the motors.
+
+I expressed that I don't fully know what I'm doing, and would appreciate help in setting it up. I'll post in the Roboboat channel when I'm working on it again, but devoting most of my efforts towards my thesis.
+
+2. Discussed the fan options found by the enclosure team.
+	a. There was a little confusion in either where the fan should go or describing the same thing to each other. I tried to explain that the fan needs to go inside of the enclosure, behind a mesh/screen that keeps water out.
+
+	b. Most of these fans operate around 120-150 CFM, which seems a little excesive. They've mentioned that you advised them to look at 123mm fans. I've advised them to steer away from 24 VDC fans, as it's probably more trouble than it's worth to cool everything using that. There is a word doc with the fans and a description with a location of where they found them on McMaster-Carr, but no actual URLs. It's currently in the Slack DM between Joseph, Thomas, Bradley, and myself, and hopefully stored on someone's computer besides my own.
+
+	c. In this list of descriptions, all amperages are listed. I told them, but have not confirmed, that the power calculations you think were done by the 2019 team were likely in their technical report. The max amperage on the listed fans is  about 0.8-0.9A, so I don't think it will be an issue. I, again, reiterated that we're not trying to spec a fan because we need to cool the enclosure `x` degrees, but we're trying to pick a fan that fits, is power-friendly, and blows some air.
+
+	d. Since the meeting, I know you've discussed with Joseph about a possibly pre-fabricated enclosure with built-in fans, or something to that effect. He found something and showed me on Zoom, but I don't have a link to it. I assume you two are in frequent communication. This enclosure he found does weigh about 15 lbs more than the existing, though.
+
+3. Mentioned the report and website deadlines. Received radio silence back. I might try and tackle resizing those images today with that tag/property you mentioned last week. I should have some downtime waiting for sims to finish up before I have enough to write about conclusively.
