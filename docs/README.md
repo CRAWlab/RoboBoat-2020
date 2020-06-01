@@ -87,6 +87,8 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 <!-- 	<i style="text-align:center;">bradleyeste@icloud.com</i><br> -->
 </p>
 
+*****
+
 <h2 style="text-align:center;">Design Changes</h2>
 
 The main focus of this year's entry was a code cleanup and new control strategy. Unfortunately, the 2020 RoboBoat in-person competition has been cancelled, so this design will not get to physically compete. This, along with sanctions placed by our state and local governments and university, has stifled some of the manufacturing improvements to the design, but the details are flushed out in the documentation.
@@ -95,8 +97,12 @@ The 2020 Ragin' Cajuns RoboBoat still uses [ROS](http://wiki.ros.org/) as the co
 
 On the hardware side, we wanted to expand our enclosure to allow for more computing power and add a cooling system. The enclosure has been redesigned to raise it off of the hull's bridge to allow for an array of fins to absorb the heat through conduction from the enclosure and expel it through natural convection while at rest, but forced convection when the vessel is in motion. This was not able to be completed.
 
+*****
+
 <h2 style="text-align:center;">Development</h2>
 
+
+*****
 
 <h2 style="text-align:center;">Documentation</h2>
 * Technical Design Report (to be linked soon)
@@ -130,6 +136,7 @@ On the hardware side, we wanted to expand our enclosure to allow for more comput
 	<i style="text-align:center;">TBD@something.com</i><br>
 </p>
  -->
+ 
 *****
 
 <h2 style="text-align:center;">Development</h2>
