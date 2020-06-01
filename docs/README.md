@@ -28,7 +28,6 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 *****
 <!-- Captains -->
 <h3 style="text-align:center;">2020 Team Members</h3>
-<p>
 
 <p style="float:left;text-align:center; width: 20%; margin-right: 20%; margin-left: 20%">
 	<strong style="text-align:center;">Captain</strong><br>
@@ -42,6 +41,7 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 	<b style="text-align:center;">Joseph Stevens</b><br>
 <!-- 	<i style="text-align:center;">joseph.stevens1@louisiana.edu</i><br> -->
 </p>
+
 <!-- Additional Members -->
 <!-- Row 1 -->
 <br>
