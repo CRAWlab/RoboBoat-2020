@@ -44,6 +44,7 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 
 <!-- Additional Members -->
 <!-- Row 1 -->
+<br>
 <p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 10%">
 	<img width="100%" src="Figures/MemberPhotos/GeraldEaglin.jpg"/><br>
 	<b style="text-align:center;">Gerald Eaglin</b>
@@ -61,6 +62,7 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 </p>
 
 <!-- Row 2 -->
+<br>
 <p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 10%">
 	<img width="100%" src="Figures/MemberPhotos/ThomasPoche.jpg"/><br>
 	<b style="text-align:center;">Thomas Poché</b>
@@ -78,6 +80,7 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 </p>
 
 <!-- Row 3 -->
+<br>
 <p style="float:left;text-align:center; width: 20%; margin-right: 30%; margin-left: 30%">
 	<img width="100%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
 	<b style="text-align:center;">Kyle Leleux</b>
@@ -90,7 +93,7 @@ The main focus of this year's entry was a code cleanup and new control strategy.
 
 The 2020 Ragin' Cajuns RoboBoat still uses [ROS](http://wiki.ros.org/) as the computer network's communication platform. We have improved the computer vision system by adding an additional [ZED Stereo Camera](https://www.stereolabs.com/zed/). We have adjusted our SLAM from [gmapping](http://wiki.ros.org/gmapping) to [RTab-Map](http://wiki.ros.org/rtabmap). Lastly, the control code has been overhauled to use Model Predictive Control using the [ACADO Toolkit](https://acado.github.io/). This control method enables mathematically optimal control by minimizing a cost function that we define.
 
-On the hardware side, we wanted to expand our enclosure to allow for more computing power and add a cooling system. The enclosure is now raised off of the hull's bridge to allow for an array of fins to absorb the heat through conduction from the enclosure and expel it through natural convection while at rest, but forced convection when the vessel is in motion.
+On the hardware side, we wanted to expand our enclosure to allow for more computing power and add a cooling system. The enclosure has been redesigned to raise it off of the hull's bridge to allow for an array of fins to absorb the heat through conduction from the enclosure and expel it through natural convection while at rest, but forced convection when the vessel is in motion. This was not able to be completed.
 
 <h2 style="text-align:center;">Development</h2>
 
