@@ -29,6 +29,8 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 <!-- Captains -->
 <h3 style="text-align:center;">2020 Team Members</h3>
 
+<div style="float:left;text-align:center">
+
 <p style="float:left;text-align:center; width: 20%; margin-right: 20%; margin-left: 20%">
 	<strong style="text-align:center;">Captain</strong><br>
 	<img width="100%" src="Figures/MemberPhotos/BenjaminArmentor.JPG"/><br>
@@ -42,9 +44,12 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 <!-- 	<i style="text-align:center;">joseph.stevens1@louisiana.edu</i><br> -->
 </p>
 
+</div>
+
 <!-- Additional Members -->
 <!-- Row 1 -->
 <br>
+<div style="float:left;text-align:center">
 <p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 10%">
 	<img width="100%" src="Figures/MemberPhotos/GeraldEaglin.jpg"/><br>
 	<b style="text-align:center;">Gerald Eaglin</b>
@@ -60,9 +65,12 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 	<b style="text-align:center;">Dallas Mitchell</b>
 <!-- 	<i style="text-align:center;">damitchell05@gmail.com</i><br> -->
 </p>
+</div>
 
 <!-- Row 2 -->
 <br>
+<div style="float:left;text-align:center">
+
 <p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 10%">
 	<img width="100%" src="Figures/MemberPhotos/ThomasPoche.jpg"/><br>
 	<b style="text-align:center;">Thomas Poché</b>
@@ -81,11 +89,14 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 
 <!-- Row 3 -->
 <br>
+<div style="float:left, text-align:center">
+
 <p style="float:left;text-align:center; width: 20%; margin-right: 40%; margin-left: 40%">
 	<img width="100%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
 	<b style="text-align:center;">Kyle Leleux</b>
 <!-- 	<i style="text-align:center;">bradleyeste@icloud.com</i><br> -->
 </p>
+</div>
 
 *****
 
