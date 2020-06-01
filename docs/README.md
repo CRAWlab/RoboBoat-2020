@@ -88,6 +88,7 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 	<b style="text-align:center;">Bradley Este</b>
 <!-- 	<i style="text-align:center;">bradleyeste@icloud.com</i><br> -->
 </p>
+</div>
 
 <!-- Row 3 -->
 <br>
@@ -100,7 +101,6 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 *****
 
 <h2 style="text-align:center;">Design Changes</h2>
-
 The main focus of this year's entry was a code cleanup and new control strategy. Unfortunately, the 2020 RoboBoat in-person competition has been cancelled, so this design will not get to physically compete. This, along with sanctions placed by our state and local governments and university, has stifled some of the manufacturing improvements to the design, but the details are flushed out in the documentation.
 
 The 2020 Ragin' Cajuns RoboBoat still uses [ROS](http://wiki.ros.org/) as the computer network's communication platform. We have improved the computer vision system by adding an additional [ZED Stereo Camera](https://www.stereolabs.com/zed/). We have adjusted our SLAM from [gmapping](http://wiki.ros.org/gmapping) to [RTab-Map](http://wiki.ros.org/rtabmap). Lastly, the control code has been overhauled to use Model Predictive Control using the [ACADO Toolkit](https://acado.github.io/). This control method enables mathematically optimal control by minimizing a cost function that we define.
@@ -185,10 +185,9 @@ On the hardware side, we wanted to expand our enclosure to allow for more comput
 
 <br>
  -->
-## List of Sponsors with logos
+<h2 style="text-align:center;">Our Sponsors</h2>
+This project would not be possible without the donations from our sponsors. Thank you all for your generosity and support.
 
-<br>
-
-## Contact Us
+<h2 style="text-align:left;">Documentation</h2>
 * Email: benarmentor@gmail.com
 * Phone: 1-(337)-967-6860
