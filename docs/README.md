@@ -16,6 +16,7 @@ Our team is coached by [Dr. Joshua Vaughan](https://userweb.ucs.louisiana.edu/~j
 The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groundwork for us to build on, were all graduating seniors in Mech. Engineering. While all of the students are in the same discipline, the 2020 Ragin' Cajuns have students at many different points in the program. This has allowed for many great mentoring opportunities within the team.
 
 *****
+
 <!-- Coach -->
 <h2 style="text-align:center;">Ragin' Cajuns RoboBoat Team</h2>
 <h3 style="text-align:center;">Coach</h3>
@@ -26,6 +27,7 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 </p>
 
 *****
+
 <!-- Captains -->
 <h3 style="text-align:center;">2020 Team Members</h3>
 
@@ -96,6 +98,7 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 </p>
 
 *****
+
 <h2 style="text-align:center;">Design Changes</h2>
 
 The main focus of this year's entry was a code cleanup and new control strategy. Unfortunately, the 2020 RoboBoat in-person competition has been cancelled, so this design will not get to physically compete. This, along with sanctions placed by our state and local governments and university, has stifled some of the manufacturing improvements to the design, but the details are flushed out in the documentation.
@@ -104,16 +107,13 @@ The 2020 Ragin' Cajuns RoboBoat still uses [ROS](http://wiki.ros.org/) as the co
 
 On the hardware side, we wanted to expand our enclosure to allow for more computing power and add a cooling system. The enclosure has been redesigned to raise it off of the hull's bridge to allow for an array of fins to absorb the heat through conduction from the enclosure and expel it through natural convection while at rest, but forced convection when the vessel is in motion. This was not able to be completed.
 
-*****
 <h2 style="text-align:center;">Development</h2>
 
 
-*****
 <h2 style="text-align:center;">Documentation</h2>
 * Technical Design Report (to be linked soon)
 * Team Video (to be linked soon)
 
-*****
 <!-- <h1 style="text-align:center;">2019 Ragin' Cajuns</h1>
 <h2 style="text-align:center;">2019 Team Members</h2>
 <h3 style="text-align:center;">Captain</h3>
@@ -140,8 +140,6 @@ On the hardware side, we wanted to expand our enclosure to allow for more comput
 	<i style="text-align:center;">TBD@something.com</i><br>
 </p>
  -->
-
-*****
 
 <!-- <h2 style="text-align:center;">Development</h2> -->
 <!-- Row 1 -->
@@ -180,8 +178,6 @@ On the hardware side, we wanted to expand our enclosure to allow for more comput
 	<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/48135356281/in/album-72157707215763765/" title="2019 International RoboBoat Competition - 87"><img src="https://live.staticflickr.com/65535/48135356281_76ecb7d580_3k.jpg" alt="2019 International RoboBoat Competition - 87"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 <br> -->
-
-*****
 
 <!-- <h2 style="text-align:center;">Documentation</h2>
 * [Technical Design Report](ULL_RB19_TDR.pdf)
