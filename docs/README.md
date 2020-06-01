@@ -40,8 +40,6 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 	<b style="text-align:center;">Joseph Stevens</b><br>
 <!-- 	<i style="text-align:center;">joseph.stevens1@louisiana.edu</i><br> -->
 </p>
-
-
 <!-- Additional Members -->
 <!-- Row 1 -->
 <br>
@@ -86,18 +84,16 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 <!-- 	<i style="text-align:center;">bradleyeste@icloud.com</i><br> -->
 </p>
 
+<br>
+
 <h2 style="text-align:center;">Design Changes</h2>
-<p>
-	The main focus of this year's entry was a code cleanup and new control strategy. Unfortunately, the 2020 RoboBoat in-person competition has been cancelled, so this design will not get to physically compete. This, along with sanctions placed by our state and local governments and university, has stifled some of the manufacturing improvements to the design, but the details are flushed out in the documentation.
-</p>
+The main focus of this year's entry was a code cleanup and new control strategy. Unfortunately, the 2020 RoboBoat in-person competition has been cancelled, so this design will not get to physically compete. This, along with sanctions placed by our state and local governments and university, has stifled some of the manufacturing improvements to the design, but the details are flushed out in the documentation.
+
+The 2020 Ragin' Cajuns RoboBoat still uses [ROS](http://wiki.ros.org/) as the computer network's communication platform. We have improved the computer vision system by adding an additional [ZED Stereo Camera](https://www.stereolabs.com/zed/). We have adjusted our SLAM from [gmapping](http://wiki.ros.org/gmapping) to [RTab-Map](http://wiki.ros.org/rtabmap) Lastly, the control code has been overhauled to use Model Predictive Control using the [ACADO Toolkit](https://acado.github.io/). This control method enables mathematically optimal control by minimizing a cost function that we define.
+
+On the hardware side, we wanted to expand our enclosure to allow for more computing power and add a cooling system. The enclosure is now raised off of the hull's bridge to allow for an array of fins to absorb the heat through conduction from the enclosure and expel it through natural convection while at rest, but forced convection when the vessel is in motion.
+
 <br>
-<p>
-	The 2020 Ragin' Cajuns RoboBoat still uses [ROS](http://wiki.ros.org/) as the computer network's communication platform. We have improved the computer vision system by adding an additional [ZED Stereo Camera](https://www.stereolabs.com/zed/). We have adjusted our SLAM from [gmapping](http://wiki.ros.org/gmapping) to [RTab-Map](http://wiki.ros.org/rtabmap) Lastly, the control code has been overhauled to use Model Predictive Control using the [ACADO Toolkit](https://acado.github.io/). This control method enables mathematically optimal control by minimizing a cost function that we define.
-</p>
-<br>
-<p>
-	On the hardware side, we wanted to expand our enclosure to allow for more computing power and add a cooling system. The enclosure is now raised off of the hull's bridge to allow for an array of fins to absorb the heat through conduction from the enclosure and expel it through natural convection while at rest, but forced convection when the vessel is in motion.
-</p>
 <h2 style="text-align:center;">Development</h2>
 
 <br>
@@ -114,24 +110,24 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 <p align="center">
 	<img width="20%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
 	<b style="text-align:center;">Christian Gary</b><br>
-	<!-- <i style="text-align:center;">TBD@something.com</i><br> -->
+	<i style="text-align:center;">TBD@something.com</i><br>
 </p>
 
 <!-- Row 1 -->
 <p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 10%">
 	<img width="100%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
 	<b style="text-align:center;">Luke Matt</b><br>
-	<!-- <i style="text-align:center;">TBD@something.com</i><br> -->
+	<i style="text-align:center;">TBD@something.com</i><br>
 </p>
 <p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 0%">
 	<img width="100%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
 	<b style="text-align:center;">Kaleb Gautreaux</b><br>
-	<!-- <i style="text-align:center;">TBD@something.com</i><br> -->
+	<i style="text-align:center;">TBD@something.com</i><br>
 </p>
 <p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 0%">
 	<img width="100%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
 	<b style="text-align:center;">Grant Bellard</b><br>
-	<!-- <i style="text-align:center;">TBD@something.com</i><br> -->
+	<i style="text-align:center;">TBD@something.com</i><br>
 </p>
 
 *****
