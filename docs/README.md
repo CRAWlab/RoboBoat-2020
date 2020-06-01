@@ -89,7 +89,7 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 
 <!-- Row 3 -->
 <br>
-<div style="float:left, text-align:center">
+<div style="float:left;text-align:center">
 
 <p style="float:left;text-align:center; width: 20%; margin-right: 40%; margin-left: 40%">
 	<img width="100%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
