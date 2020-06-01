@@ -187,7 +187,7 @@ On the hardware side, we wanted to expand our enclosure to allow for more comput
 
 *****
 
-<h2 style="text-align:center;">Our Sponsors</h2>
+<!-- <h2 style="text-align:center;">Our Sponsors</h2>
 <p style="float:left;text-align:center">
 This project would not be possible without the donations from our sponsors.
 </p>
@@ -200,4 +200,4 @@ Thank you all for your generosity and support.
 
 <h2 style="text-align:left;">Contact Us</h2>
 * Email: benarmentor@gmail.com
-* Phone: 1-(337)-967-6860
+* Phone: 1-(337)-967-6860 -->
