@@ -30,7 +30,7 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 <h3 style="text-align:center;">2020 Team Members</h3>
 <p style="float:left;text-align:center; width: 20%; margin-right: 20%; margin-left: 20%">
 	<strong style="text-align:center;">Captain</strong><br>
-	<img width="100%" src="Figures/MemberPhotos/BenjaminArmentor.jpg"/><br>
+	<img width="100%" src="Figures/MemberPhotos/BenjaminArmentor.JPG"/><br>
 	<b style="text-align:center;">Benjamin Armentor</b><br>
 <!-- 	<i style="text-align:center;">benarmentor@gmail.com</i><br> -->
 </p>
@@ -54,7 +54,7 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 <!-- 	<i style="text-align:center;">nathan.madsen1@louisiana.edu</i><br> -->
 </p>
 <p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 0%">
-	<img width="100%" src="Figures/MemberPhotos/DallasMitchell.jpg"/><br>
+	<img width="100%" src="Figures/MemberPhotos/DallasMitchell.JPG"/><br>
 	<b style="text-align:center;">Dallas Mitchell</b><br>
 <!-- 	<i style="text-align:center;">damitchell05@gmail.com</i><br> -->
 </p>
