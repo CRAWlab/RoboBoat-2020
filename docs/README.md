@@ -188,13 +188,11 @@ On the hardware side, we wanted to expand our enclosure to allow for more comput
 *****
 
 <h2 style="text-align:center;">Our Sponsors</h2>
-<p style="float:left;text-align:center">
+<p style="text-align:center">
 This project would not be possible without the donations from our sponsors.
-</p>
 
 <br>
 
-<p style="float:left;text-align:center">
 Thank you all for your generosity and support.
 </p>
 
