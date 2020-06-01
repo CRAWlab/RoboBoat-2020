@@ -78,6 +78,7 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 </p>
 
 <!-- Row 3 -->
+<br>
 <p style="float:left;text-align:center; width: 20%; margin-right: 30%; margin-left: 30%">
 	<img width="100%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
 	<b style="text-align:center;">Kyle Leleux</b><br>
