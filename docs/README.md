@@ -44,7 +44,7 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 <!-- Row 1 -->
 <br>
 <p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 10%">
-	<img width="100%" src="Figures/MemberPhotos/GeraldEaglin.png"/><br>
+	<img width="100%" src="Figures/MemberPhotos/GeraldEaglin.jpg"/><br>
 	<b style="text-align:center;">Gerald Eaglin</b><br>
 <!-- 	<i style="text-align:center;">geaglin2012@gmail.com</i><br> -->
 </p>
@@ -83,6 +83,9 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 	<b style="text-align:center;">Kyle Leleux</b><br>
 <!-- 	<i style="text-align:center;">bradleyeste@icloud.com</i><br> -->
 </p>
+
+<br>
+
 <h2 style="text-align:center;">Design Changes</h2>
 The main focus of this year's entry was a code cleanup and new control strategy. Unfortunately, the 2020 RoboBoat in-person competition has been cancelled, so this design will not get to physically compete. This, along with sanctions placed by our state and local governments and university, has stifled some of the manufacturing improvements to the design, but the details are flushed out in the documentation.
 
@@ -90,7 +93,10 @@ The 2020 Ragin' Cajuns RoboBoat still uses [ROS](http://wiki.ros.org/) as the co
 
 On the hardware side, we wanted to expand our enclosure to allow for more computing power and add a cooling system. The enclosure is now raised off of the hull's bridge to allow for an array of fins to absorb the heat through conduction from the enclosure and expel it through natural convection while at rest, but forced convection when the vessel is in motion.
 
+<br>
 <h2 style="text-align:center;">Development</h2>
+
+<br>
 
 <h2 style="text-align:center;">Documentation</h2>
 * Technical Design Report (to be linked soon)
@@ -167,7 +173,11 @@ On the hardware side, we wanted to expand our enclosure to allow for more comput
 * [Technical Design Report](ULL_RB19_TDR.pdf)
 * [Team Video](https://www.youtube.com/watch?v=DXaP6OPKAoY&feature=youtu.be)
 
+<br>
+
 ## List of Sponsors with logos
+
+<br>
 
 ## Contact Us
 * Email: benarmentor@gmail.com
