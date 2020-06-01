@@ -81,7 +81,7 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 
 <!-- Row 3 -->
 <br>
-<p style="float:left;text-align:center; width: 20%; margin-right: 30%; margin-left: 30%">
+<p style="float:left;text-align:center; width: 20%; margin-right: 40%; margin-left: 40%">
 	<img width="100%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
 	<b style="text-align:center;">Kyle Leleux</b>
 <!-- 	<i style="text-align:center;">bradleyeste@icloud.com</i><br> -->
@@ -136,10 +136,10 @@ On the hardware side, we wanted to expand our enclosure to allow for more comput
 	<i style="text-align:center;">TBD@something.com</i><br>
 </p>
  -->
- 
+
 *****
 
-<h2 style="text-align:center;">Development</h2>
+<!-- <h2 style="text-align:center;">Development</h2> -->
 <!-- Row 1 -->
 <!-- <div style="float:left;text-align:center; width: 30%; margin-right: 2.5%; margin-left: 2.5%">
 	<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/32882767317/" title="RoboBoat Pseudo-FBD Sketch II"><img src="https://live.staticflickr.com/65535/32882767317_55f7bd69bb_5k.jpg" alt="RoboBoat Pseudo-FBD Sketch II"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
