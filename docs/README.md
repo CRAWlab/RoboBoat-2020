@@ -148,37 +148,37 @@ On the hardware side, we wanted to expand our enclosure to allow for more comput
 <h2 style="text-align:center;">Highlights</h2>
 <!-- Row 1 -->
 <div style="float:left;text-align:center; width: 30%; margin-right: 2.5%; margin-left: 2.5%">
-	<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/32882767317" title="RoboBoat Pseudo-FBD Sketch II"><img src="https://live.staticflickr.com/65535/32882767317_03ccd6f38b_q.jpg" width="200" height="200" alt="RoboBoat Pseudo-FBD Sketch II"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/32882767317" title="RoboBoat Pseudo-FBD Sketch II"><img src="https://live.staticflickr.com/65535/32882767317_03ccd6f38b_q.jpg" width="175" height="175" alt="RoboBoat Pseudo-FBD Sketch II"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 <div style="float:left;text-align:center; width: 30%; margin-right: 2.5%; margin-left: 0%">
-	<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/48135381943/in/album-72157707215763765/" title="Not a bad first year"><img src="https://live.staticflickr.com/65535/48135381943_32588c5e1c_3k.jpg" width="200" height="200" alt="Not a bad first year"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/48135381943/in/album-72157707215763765/" title="Not a bad first year"><img src="https://live.staticflickr.com/65535/48135381943_32588c5e1c_3k.jpg" width="175" height="175" alt="Not a bad first year"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 <div style="float:left;text-align:center; width: 30%; margin-right: 2.5%; margin-left: 0%">
-	<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/47594323382/in/album-72157707215763765/" title="RoboBoat Electronics"><img src="https://live.staticflickr.com/65535/47594323382_fbe1c21973_3k.jpg" width="200" height="200" alt="RoboBoat Electronics"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/47594323382/in/album-72157707215763765/" title="RoboBoat Electronics"><img src="https://live.staticflickr.com/65535/47594323382_fbe1c21973_3k.jpg" width="175" height="175" alt="RoboBoat Electronics"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 <!-- Row 2 -->
 <br>
 <div style="float:left;text-align:center; width: 30%; margin-right: 2.5%; margin-left: 2.5%">
-	<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/48135464462/" title="2019 International RoboBoat Competition - 21"><img src="https://live.staticflickr.com/65535/48135464462_603cebba84_3k.jpg" width="200" height="200" alt="2019 International RoboBoat Competition - 21"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/48135464462/" title="2019 International RoboBoat Competition - 21"><img src="https://live.staticflickr.com/65535/48135464462_603cebba84_3k.jpg" width="175" height="175" alt="2019 International RoboBoat Competition - 21"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 <div style="float:left;text-align:center; width: 30%; margin-right: 2.5%; margin-left: 0%">
-	<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/46744293214/in/album-72157707215763765/" title="RoboBoat hull fabrication"><img src="https://live.staticflickr.com/7884/46744293214_a94d7a7539_3k.jpg" width="200" height="200" alt="RoboBoat hull fabrication"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/46744293214/in/album-72157707215763765/" title="RoboBoat hull fabrication"><img src="https://live.staticflickr.com/7884/46744293214_a94d7a7539_3k.jpg" width="175" height="175" alt="RoboBoat hull fabrication"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 <div style="float:left;text-align:center; width: 30%; margin-right: 2.5%; margin-left: 0%">
-	<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/48135405193/in/photostream/" title="2019 International RoboBoat Competition - 8"><img src="https://live.staticflickr.com/65535/48135405193_ed3bd1bae9_3k.jpg" width="200" height="200" alt="2019 International RoboBoat Competition - 8"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/48135405193/in/photostream/" title="2019 International RoboBoat Competition - 8"><img src="https://live.staticflickr.com/65535/48135405193_ed3bd1bae9_3k.jpg" width="175" height="175" alt="2019 International RoboBoat Competition - 8"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 <!-- Row 3 -->
 <br>
 <div style="float:left;text-align:center; width: 30%; margin-right: 2.5%; margin-left: 2.5%">
-	<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/48097796362/in/album-72157707215763765/" title="Sunny Thursday morning at RoboBoat"><img src="https://live.staticflickr.com/65535/48097796362_1b4d12c5ac_3k.jpg" width="200" height="200" alt="Sunny Thursday morning at RoboBoat"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/48097796362/in/album-72157707215763765/" title="Sunny Thursday morning at RoboBoat"><img src="https://live.staticflickr.com/65535/48097796362_1b4d12c5ac_3k.jpg" width="175" height="175" alt="Sunny Thursday morning at RoboBoat"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 <div style="float:left;text-align:center; width: 30%; margin-right: 2.5%; margin-left: 0%">
-	<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/48135395133/in/album-72157707215763765/" title="2019 International RoboBoat Competition - 57"><img src="https://live.staticflickr.com/65535/48135395133_38288a4c17_3k.jpg" width="200" height="200" alt="2019 International RoboBoat Competition - 57"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/48135395133/in/album-72157707215763765/" title="2019 International RoboBoat Competition - 57"><img src="https://live.staticflickr.com/65535/48135395133_38288a4c17_3k.jpg" width="175" height="175" alt="2019 International RoboBoat Competition - 57"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 <div style="float:left;text-align:center; width: 30%; margin-right: 2.5%; margin-left: 0%">
-	<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/48135356281/in/album-72157707215763765/" title="2019 International RoboBoat Competition - 87"><img src="https://live.staticflickr.com/65535/48135356281_76ecb7d580_3k.jpg" width="200" height="200" alt="2019 International RoboBoat Competition - 87"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/48135356281/in/album-72157707215763765/" title="2019 International RoboBoat Competition - 87"><img src="https://live.staticflickr.com/65535/48135356281_76ecb7d580_3k.jpg" width="175" height="175" alt="2019 International RoboBoat Competition - 87"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 <h2 style="text-align:center;">Documentation</h2>
@@ -193,6 +193,7 @@ This project would not be possible without the donations from our sponsors.
 </p>
 
 <br>
+
 <p style="float:left;text-align:center">
 Thank you all for your generosity and support.
 </p>
