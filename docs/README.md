@@ -28,6 +28,8 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 *****
 <!-- Captains -->
 <h3 style="text-align:center;">2020 Team Members</h3>
+<p>
+
 <p style="float:left;text-align:center; width: 20%; margin-right: 20%; margin-left: 20%">
 	<strong style="text-align:center;">Captain</strong><br>
 	<img width="100%" src="Figures/MemberPhotos/BenjaminArmentor.JPG"/><br>
@@ -105,7 +107,7 @@ On the hardware side, we wanted to expand our enclosure to allow for more comput
 
 *****
 
-<h1 style="text-align:center;">2019 Ragin' Cajuns</h1>
+<!-- <h1 style="text-align:center;">2019 Ragin' Cajuns</h1>
 <h2 style="text-align:center;">2019 Team Members</h2>
 <h3 style="text-align:center;">Captain</h3>
 <p align="center">
@@ -113,9 +115,9 @@ On the hardware side, we wanted to expand our enclosure to allow for more comput
 	<b style="text-align:center;">Christian Gary</b><br>
 	<i style="text-align:center;">TBD@something.com</i><br>
 </p>
-
+ -->
 <!-- Row 1 -->
-<p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 10%">
+<!-- <p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 10%">
 	<img width="100%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
 	<b style="text-align:center;">Luke Matt</b><br>
 	<i style="text-align:center;">TBD@something.com</i><br>
@@ -130,12 +132,12 @@ On the hardware side, we wanted to expand our enclosure to allow for more comput
 	<b style="text-align:center;">Grant Bellard</b><br>
 	<i style="text-align:center;">TBD@something.com</i><br>
 </p>
-
+ -->
 *****
 
 <h2 style="text-align:center;">Development</h2>
 <!-- Row 1 -->
-<div style="float:left;text-align:center; width: 30%; margin-right: 2.5%; margin-left: 2.5%">
+<!-- <div style="float:left;text-align:center; width: 30%; margin-right: 2.5%; margin-left: 2.5%">
 	<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/32882767317/" title="RoboBoat Pseudo-FBD Sketch II"><img src="https://live.staticflickr.com/65535/32882767317_55f7bd69bb_5k.jpg" alt="RoboBoat Pseudo-FBD Sketch II"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 <div style="float:left;text-align:center; width: 30%; margin-right: 2.5%; margin-left: 0%">
@@ -144,8 +146,10 @@ On the hardware side, we wanted to expand our enclosure to allow for more comput
 <div style="float:left;text-align:center; width: 30%; margin-right: 2.5%; margin-left: 0%">
 	<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/47594323382/in/album-72157707215763765/" title="RoboBoat Electronics"><img src="https://live.staticflickr.com/65535/47594323382_fbe1c21973_3k.jpg" alt="RoboBoat Electronics"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div><br>
-
+ -->
 <!-- Row 2 -->
+<!-- 
+<br>
 <div style="float:left;text-align:center; width: 30%; margin-right: 2.5%; margin-left: 2.5%">
 	<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/48135464462/" title="2019 International RoboBoat Competition - 21"><img src="https://live.staticflickr.com/65535/48135464462_603cebba84_3k.jpg" alt="2019 International RoboBoat Competition - 21"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
@@ -155,8 +159,9 @@ On the hardware side, we wanted to expand our enclosure to allow for more comput
 <div style="float:left;text-align:center; width: 30%; margin-right: 2.5%; margin-left: 0%">
 	<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/48135405193/in/photostream/" title="2019 International RoboBoat Competition - 8"><img src="https://live.staticflickr.com/65535/48135405193_ed3bd1bae9_3k.jpg" alt="2019 International RoboBoat Competition - 8"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div><br>
-
+ -->
 <!-- Row 3 -->
+<!-- <br>
 <div style="float:left;text-align:center; width: 30%; margin-right: 2.5%; margin-left: 2.5%">
 	<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/48097796362/in/album-72157707215763765/" title="Sunny Thursday morning at RoboBoat"><img src="https://live.staticflickr.com/65535/48097796362_1b4d12c5ac_3k.jpg" alt="Sunny Thursday morning at RoboBoat"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
@@ -166,16 +171,16 @@ On the hardware side, we wanted to expand our enclosure to allow for more comput
 <div style="float:left;text-align:center; width: 30%; margin-right: 2.5%; margin-left: 0%">
 	<a data-flickr-embed="true" href="https://www.flickr.com/photos/crawlab/48135356281/in/album-72157707215763765/" title="2019 International RoboBoat Competition - 87"><img src="https://live.staticflickr.com/65535/48135356281_76ecb7d580_3k.jpg" alt="2019 International RoboBoat Competition - 87"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
-<br>
+<br> -->
 
 *****
 
-<h2 style="text-align:center;">Documentation</h2>
+<!-- <h2 style="text-align:center;">Documentation</h2>
 * [Technical Design Report](ULL_RB19_TDR.pdf)
 * [Team Video](https://www.youtube.com/watch?v=DXaP6OPKAoY&feature=youtu.be)
 
 <br>
-
+ -->
 ## List of Sponsors with logos
 
 <br>
