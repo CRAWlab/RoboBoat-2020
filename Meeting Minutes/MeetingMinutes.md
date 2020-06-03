@@ -308,3 +308,30 @@ I expressed that I don't fully know what I'm doing, and would appreciate help in
 	d. Since the meeting, I know you've discussed with Joseph about a possibly pre-fabricated enclosure with built-in fans, or something to that effect. He found something and showed me on Zoom, but I don't have a link to it. I assume you two are in frequent communication. This enclosure he found does weigh about 15 lbs more than the existing, though.
 
 3. Mentioned the report and website deadlines. Received radio silence back. I might try and tackle resizing those images today with that tag/property you mentioned last week. I should have some downtime waiting for sims to finish up before I have enough to write about conclusively.
+
+# June 2, 2020
+1. Discussed issues Ben was having with Gazebo simulation and locating the camera sensors to match up with the physical position -- seemed to be editing the opposite.
+
+> ***BA*** This has been resolved.
+
+2. Informed everyone that Kyle Leleux is going to be joining the team to assist with the navigation and planning stack.
+3. Provided an overview of how I expect the control structure to go. Dr. Vaughan recommended that we build up to this solution using the baseline navigation stack.
+
+> ***BA*** I ran into an issue with `RTabMap` that I haven't pushed yet. Might have to revert the workspace a bit because nothing is roslaunching. Not sure if it's a ROS issue or workspace issue. The only packages I should have installed new to `/opt/ros` are `RTabMap` and dependencies.
+
+4. Joseph was unable to attend because he was driving home. I've asked him to edit this document with an update from the enclosure team about the CAD and calculations.
+
+5. Website is mostly ready -- missing a few photos about development and paragraph revisions. Also need to change some photos to a placeholder image.
+
+6. Do not have an estimate on first report draft without update from enclosure team, but I think getting some level of controller ready is do-able by 6/4 afternoon. Getting some version of MPC ready probably a week after that, but mostly just throwing a number out there.
+
+## Due Dates
+### Required
+3. Website - DUE June 7, 2020
+4. Technical Design Report - DUE June 21, 2020
+5. Video - DUE June 28, 2020
+
+### OPTIONAL SUBMISSIONS
+6. Create a Task - DUE July 5, 2020
+7. Systems Engineering Paper - DUE July 12, 2020
+8. Resume / Curriculum Vitae (CV) - Rolling Deadline
