@@ -259,7 +259,7 @@ Thank you all for your generosity and support.
 
 <!-- [Website](https://www.hammfg.com) -->
 
-<p style="float:left;text-align:center; width: 45%; margin-right: 3.33%; margin-left: 3.33%">
+<p style="float:left;text-align:center; width: 45%; margin-right: 3.33%; margin-left: 0%">
 	<img width="100%" src="Figures/Sponsors/logo_awc.jpg" alt="AWC Industrial"/>
 </p>
 
