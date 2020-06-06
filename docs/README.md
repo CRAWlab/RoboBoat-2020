@@ -257,13 +257,13 @@ Thank you all for your generosity and support.
 	<img width="100%" src="Figures/Sponsors/hammondmfg.PNG" alt="Hammond Manufacturing"/><br>
 </p>
 
-[Website](https://www.hammfg.com)
+<!-- [Website](https://www.hammfg.com) -->
 
 <p style="float:left;text-align:center; width: 45%; margin-right: 3.33%; margin-left: 3.33%">
 	<img width="100%" src="Figures/Sponsors/logo_awc.jpg" alt="AWC Industrial"/><br>
 </p>
 
-[Website](https://www.awc-inc.com/)
+<!-- [Website](https://www.awc-inc.com/) -->
 
 </div>
 
