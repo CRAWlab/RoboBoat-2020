@@ -125,6 +125,7 @@ On the hardware side, we wanted to expand our enclosure to allow for more comput
 
 <!-- Row 3 -->
 <br>
+<div style="float:left;text-align:center">
 <p style="float:left;text-align:center; width: 45%; margin-right: 3.33%; margin-left: 3.33%">
 	<img src="Figures/HeatSink.PNG" alt="CAD drawing to model heat sink for new enclosure"/>
 </p>
@@ -149,7 +150,7 @@ On the hardware side, we wanted to expand our enclosure to allow for more comput
 </div>
 
 <!-- Row 5 -->
-<div>
+<div style="float:left;text-align:center">
 <br>
 <p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 0%">
 	<img src="Figures/NewEnclosureMounting.PNG" alt="Adjusting the rail system to support the raised enclosure"/>
@@ -159,6 +160,7 @@ On the hardware side, we wanted to expand our enclosure to allow for more comput
 	<img src="Figures/NewEnclosureMountedWithLid.PNG" alt="New enclosure on rail system, equipped with heat sinks"/>
 </p>
 </div>
+
 <br>
 
 <h2 style="text-align:center;">Documentation</h2>
