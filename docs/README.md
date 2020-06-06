@@ -104,8 +104,8 @@ On the hardware side, we wanted to expand our enclosure to allow for more comput
 	<img  src="Figures/YOLO.jpg" alt="Testing the image classifier"/>
 </p>
 
-<p style="float:left;text-align:center; width: 290; height: 218; margin-right: 3.33%; margin-left: 0%">
-	<img src="Figures/RQT.png" alt="ROS RQT graph of node network"/>
+<p style="float:left;text-align:center; width: 45%; margin-right: 3.33%; margin-left: 0%">
+	<img width="290"; height="218" src="Figures/RQT.png" alt="ROS RQT graph of node network"/>
 </p>
 
 </div>
