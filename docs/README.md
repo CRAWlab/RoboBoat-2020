@@ -100,60 +100,65 @@ On the hardware side, we wanted to expand our enclosure to allow for more comput
 
 <!-- Row 1 -->
 <div style="float:left;text-align:center">
-<p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 10%">
+<p style="float:left;text-align:center; width: 45%; margin-right: 3.33%; margin-left: 3.33%">
 	<img  src="Figures/YOLO.jpg" alt="Testing the image classifier"/>
 </p>
 
-<p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 0%">
+<p style="float:left;text-align:center; width: 45%; margin-right: 3.33%; margin-left: 0%">
 	<img src="Figures/RQT.png" alt="ROS RQT graph of node network"/>
-</p>
-
-<p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 0%">
-	<img src="Figures/Floating_heron.png" alt="Things didn't always go as planned"/>
 </p>
 
 </div>
 
 <!-- Row 2 -->
-<br>
 <div style="float:left;text-align:center">
-<p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 10%">
+<br>
+<p style="float:left;text-align:center; width: 45%; margin-right: 3.33%; margin-left: 3.33%">
+	<img src="Figures/Floating_heron.png" alt="Things didn't always go as planned"/>
+</p>
+
+<p style="float:left;text-align:center; width: 45%; margin-right: 3.33%; margin-left: 0%">
 	<img  src="Figures/Troubleshooting.png" alt="Team conference call fixing Gerald's sinking RoboBoat"/>
-</p>
-
-<p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 0%">
-	<img src="Figures/HeatSink.PNG" alt="CAD drawing to model heat sink for new enclosure"/>
-</p>
-
-<p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 0%">
-	<img src="Figures/OldEnclosure.PNG" alt="Old enclosure design"/>
 </p>
 
 </div>
 
 <!-- Row 3 -->
 <br>
-<div style="float:left;text-align:center">
-<p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 10%">
-	<img src="Figures/NewZED.PNG" alt="Adding the new ZED stereo camera to the CAD assembly"/>
+<p style="float:left;text-align:center; width: 45%; margin-right: 3.33%; margin-left: 3.33%">
+	<img src="Figures/HeatSink.PNG" alt="CAD drawing to model heat sink for new enclosure"/>
 </p>
 
-<p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 0%">
-	<img src="Figures/NewLIDAR.PNG" alt="Adding new Hokoyu LiDAR to the CAD assembly"/>
-</p>
-
-<p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 0%">
-	<img src="Figures/NewEnclosureMounting.PNG" alt="Adjusting the rail system to support the raised enclosure"/>
+<p style="float:left;text-align:center; width: 45%; margin-right: 3.33%; margin-left: 0%">
+	<img src="Figures/OldEnclosure.PNG" alt="Old enclosure design"/>
 </p>
 
 </div>
 
 <!-- Row 4 -->
 <br>
+<div style="float:left;text-align:center">
+<p style="float:left;text-align:center; width: 45%; margin-right: 3.33%; margin-left: 3.33%">
+	<img src="Figures/NewZED.PNG" alt="Adding the new ZED stereo camera to the CAD assembly"/>
+</p>
+
+<p style="float:left;text-align:center; width: 45%; margin-right: 3.33%; margin-left: 0%">
+	<img src="Figures/NewLIDAR.PNG" alt="Adding new Hokoyu LiDAR to the CAD assembly"/>
+</p>
+
+</div>
+
+<!-- Row 5 -->
+<div>
+<br>
+<p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 0%">
+	<img src="Figures/NewEnclosureMounting.PNG" alt="Adjusting the rail system to support the raised enclosure"/>
+</p>
+
 <p style="float:left;text-align:center; width: 20%; margin-right: 40%; margin-left: 40%">
 	<img src="Figures/NewEnclosureMountedWithLid.PNG" alt="New enclosure on rail system, equipped with heat sinks"/>
 </p>
-
+</div>
 <br>
 
 <h2 style="text-align:center;">Documentation</h2>
