@@ -101,11 +101,11 @@ On the hardware side, we wanted to expand our enclosure to allow for more comput
 <!-- Row 1 -->
 <div style="float:left;text-align:center">
 <p style="float:left;text-align:center; width: 45%; margin-right: 3.33%; margin-left: 3.33%">
-	<img  src="Figures/YOLO.jpg" alt="Testing the image classifier"/>
+	<img  src="Figures/YOLO.jpg" title="Testing the image classifier"/>
 </p>
 
 <p style="float:left;text-align:center; width: 45%; margin-right: 3.33%; margin-left: 0%">
-	<img width="290" height="218" src="Figures/RQT.png" alt="ROS RQT graph of node network"/>
+	<img width="290" height="218" src="Figures/RQT.png" title="ROS RQT graph of node network"/>
 </p>
 
 </div>
@@ -114,11 +114,11 @@ On the hardware side, we wanted to expand our enclosure to allow for more comput
 <div style="float:left;text-align:center">
 <br>
 <p style="float:left;text-align:center; width: 45%; margin-right: 3.33%; margin-left: 3.33%">
-	<img src="Figures/Floating_heron.png" alt="Things didn't always go as planned"/>
+	<img src="Figures/Floating_heron.png" title="Things didn't always go as planned"/>
 </p>
 
 <p style="float:left;text-align:center; width: 45%; margin-right: 3.33%; margin-left: 0%">
-	<img src="Figures/Troubleshooting.png" alt="Team conference call fixing Gerald's sinking RoboBoat"/>
+	<img src="Figures/Troubleshooting.png" title="Team conference call fixing Gerald's sinking RoboBoat"/>
 </p>
 
 </div>
@@ -127,11 +127,11 @@ On the hardware side, we wanted to expand our enclosure to allow for more comput
 <br>
 <div style="float:left;text-align:center">
 <p style="float:left;text-align:center; width: 45%; margin-right: 3.33%; margin-left: 3.33%">
-	<img src="Figures/HeatSink.PNG" alt="CAD drawing to model heat sink for new enclosure"/>
+	<img src="Figures/HeatSink.PNG" title="CAD drawing to model heat sink for new enclosure"/>
 </p>
 
 <p style="float:left;text-align:center; width: 45%; margin-right: 3.33%; margin-left: 0%">
-	<img src="Figures/OldEnclosure.PNG" alt="Old enclosure design"/>
+	<img src="Figures/OldEnclosure.PNG" title="Old enclosure design"/>
 </p>
 
 </div>
@@ -140,11 +140,11 @@ On the hardware side, we wanted to expand our enclosure to allow for more comput
 <br>
 <div style="float:left;text-align:center">
 <p style="float:left;text-align:center; width: 45%; margin-right: 3.33%; margin-left: 3.33%">
-	<img src="Figures/NewZED.PNG" alt="Adding the new ZED stereo camera to the CAD assembly"/>
+	<img src="Figures/NewZED.PNG" title="Adding the new ZED stereo camera to the CAD assembly"/>
 </p>
 
 <p style="float:left;text-align:center; width: 45%; margin-right: 3.33%; margin-left: 0%">
-	<img src="Figures/NewLIDAR.PNG" alt="Adding new Hokoyu LiDAR to the CAD assembly"/>
+	<img src="Figures/NewLIDAR.PNG" title="Adding new Hokoyu LiDAR to the CAD assembly"/>
 </p>
 
 </div>
@@ -153,11 +153,11 @@ On the hardware side, we wanted to expand our enclosure to allow for more comput
 <div style="float:left;text-align:center">
 <br>
 <p style="float:left;text-align:center; width: 45%; margin-right: 3.33%; margin-left: 3.33%">
-	<img src="Figures/NewEnclosureMounting.PNG" alt="Adjusting the rail system to support the raised enclosure"/>
+	<img src="Figures/NewEnclosureMounting.PNG" title="Adjusting the rail system to support the raised enclosure"/>
 </p>
 
 <p style="float:left;text-align:center; width: 45%; margin-right: 3.33%; margin-left: 0%">
-	<img src="Figures/NewEnclosureMountedWithLid.PNG" alt="New enclosure on rail system, equipped with heat sinks"/>
+	<img src="Figures/NewEnclosureMountedWithLid.PNG" title="New enclosure on rail system, equipped with heat sinks"/>
 </p>
 </div>
 
