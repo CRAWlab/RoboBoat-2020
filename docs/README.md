@@ -104,7 +104,7 @@ On the hardware side, we wanted to expand our enclosure to allow for more comput
 	<img  src="Figures/YOLO.jpg" alt="Testing the image classifier"/>
 </p>
 
-<p style="float:left;text-align:center; width: 45%; margin-right: 3.33%; margin-left: 0%">
+<p style="float:left;text-align:center; width: 45% height: 1361; margin-right: 3.33%; margin-left: 0%">
 	<img src="Figures/RQT.png" alt="ROS RQT graph of node network"/>
 </p>
 
@@ -152,11 +152,11 @@ On the hardware side, we wanted to expand our enclosure to allow for more comput
 <!-- Row 5 -->
 <div style="float:left;text-align:center">
 <br>
-<p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 0%">
+<p style="float:left;text-align:center; width: 45%; margin-right: 3.33%; margin-left: 3.33%">
 	<img src="Figures/NewEnclosureMounting.PNG" alt="Adjusting the rail system to support the raised enclosure"/>
 </p>
 
-<p style="float:left;text-align:center; width: 20%; margin-right: 40%; margin-left: 40%">
+<p style="float:left;text-align:center; width: 45%; margin-right: 3.33%; margin-left: 0%">
 	<img src="Figures/NewEnclosureMountedWithLid.PNG" alt="New enclosure on rail system, equipped with heat sinks"/>
 </p>
 </div>
