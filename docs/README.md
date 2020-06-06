@@ -118,7 +118,7 @@ On the hardware side, we wanted to expand our enclosure to allow for more comput
 </p>
 
 <p style="float:left;text-align:center; width: 45%; margin-right: 3.33%; margin-left: 0%">
-	<img  src="Figures/Troubleshooting.png" alt="Team conference call fixing Gerald's sinking RoboBoat"/>
+	<img src="Figures/Troubleshooting.png" alt="Team conference call fixing Gerald's sinking RoboBoat"/>
 </p>
 
 </div>
@@ -249,6 +249,20 @@ This project would not be possible without the donations from our sponsors.
 
 Thank you all for your generosity and support.
 </p>
+
+<!-- Row 1 -->
+<br>
+<div style="float:left;text-align:center">
+<p style="float:left;text-align:center; width: 45%; margin-right: 3.33%; margin-left: 3.33%">
+	<img width="100%" src="Figures/hammondmfg.PNG" alt="Hammond Manufacturing"/><br>
+	<b>[Website](https://www.hammfg.com)</b>
+</p>
+
+<p style="float:left;text-align:center; width: 45%; margin-right: 3.33%; margin-left: 3.33%">
+	<img width="100%" src="Figures/logo_awc.jpg" alt="AWC Industrial"/><br>
+	<b>[Website](https://www.awc-inc.com/)</b>
+</p>
+</div>
 
 <h2 style="text-align:left;">Contact Us</h2>
 * Email: benarmentor@gmail.com
