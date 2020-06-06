@@ -101,15 +101,15 @@ On the hardware side, we wanted to expand our enclosure to allow for more comput
 <!-- Row 1 -->
 <div style="float:left;text-align:center">
 <p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 10%">
-	<img width="150" height="150" src="Figures/YOLO.jpg" alt="Testing the image classifier"/>
+	<img  src="Figures/YOLO.jpg" alt="Testing the image classifier"/>
 </p>
 
 <p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 0%">
-	<img width="150" height="150" src="Figures/RQT.png" alt="ROS RQT graph of node network"/>
+	<img src="Figures/RQT.png" alt="ROS RQT graph of node network"/>
 </p>
 
 <p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 0%">
-	<img width="150" height="150" src="Figures/Floating_heron.png" alt="Things didn't always go as planned"/>
+	<img src="Figures/Floating_heron.png" alt="Things didn't always go as planned"/>
 </p>
 
 </div>
@@ -118,15 +118,15 @@ On the hardware side, we wanted to expand our enclosure to allow for more comput
 <br>
 <div style="float:left;text-align:center">
 <p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 10%">
-	<img width="150" height="150" src="Figures/Troubleshooting.png" alt="Team conference call fixing Gerald's sinking RoboBoat"/>
+	<img  src="Figures/Troubleshooting.png" alt="Team conference call fixing Gerald's sinking RoboBoat"/>
 </p>
 
 <p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 0%">
-	<img width="150" height="150" src="Figures/HeatSink.PNG" alt="CAD drawing to model heat sink for new enclosure"/>
+	<img src="Figures/HeatSink.PNG" alt="CAD drawing to model heat sink for new enclosure"/>
 </p>
 
 <p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 0%">
-	<img width="150" height="150" src="Figures/OldEnclosure.PNG" alt="Old enclosure design"/>
+	<img src="Figures/OldEnclosure.PNG" alt="Old enclosure design"/>
 </p>
 
 </div>
@@ -135,15 +135,15 @@ On the hardware side, we wanted to expand our enclosure to allow for more comput
 <br>
 <div style="float:left;text-align:center">
 <p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 10%">
-	<img width="150" height="150" src="Figures/NewZED.PNG" alt="Adding the new ZED stereo camera to the CAD assembly"/>
+	<img src="Figures/NewZED.PNG" alt="Adding the new ZED stereo camera to the CAD assembly"/>
 </p>
 
 <p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 0%">
-	<img width="150" height="150" src="Figures/NewLIDAR.PNG" alt="Adding new Hokoyu LiDAR to the CAD assembly"/>
+	<img src="Figures/NewLIDAR.PNG" alt="Adding new Hokoyu LiDAR to the CAD assembly"/>
 </p>
 
 <p style="float:left;text-align:center; width: 20%; margin-right: 10%; margin-left: 0%">
-	<img width="150" height="150" src="Figures/NewEnclosureMounting.PNG" alt="Adjusting the rail system to support the raised enclosure"/>
+	<img src="Figures/NewEnclosureMounting.PNG" alt="Adjusting the rail system to support the raised enclosure"/>
 </p>
 
 </div>
@@ -151,8 +151,10 @@ On the hardware side, we wanted to expand our enclosure to allow for more comput
 <!-- Row 4 -->
 <br>
 <p style="float:left;text-align:center; width: 20%; margin-right: 40%; margin-left: 40%">
-	<img width="150" height="150" src="Figures/NewEnclosureMountedWithLid.PNG" alt="New enclosure on rail system, equipped with heat sinks"/>
+	<img src="Figures/NewEnclosureMountedWithLid.PNG" alt="New enclosure on rail system, equipped with heat sinks"/>
 </p>
+
+<br>
 
 <h2 style="text-align:center;">Documentation</h2>
 * Technical Design Report (to be linked soon)
@@ -163,7 +165,7 @@ On the hardware side, we wanted to expand our enclosure to allow for more comput
 <h1 style="text-align:center;">2019 Ragin' Cajuns</h1>
 <p align="center">
 	<strong style="text-align:center;">Captain</strong><br>
-	<img width="20%" src="Figures/MemberPhotos/JoshuaVaughan.jpg"/><br>
+	<img width="20%" src="Figures/placeholder.PNG"/><br>
 	<b style="text-align:center;">Christian Gary</b><br>
 	<!-- <i style="text-align:center;">TBD@something.com</i><br> -->
 </p>
