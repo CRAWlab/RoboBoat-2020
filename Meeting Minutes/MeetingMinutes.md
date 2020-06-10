@@ -335,3 +335,16 @@ I expressed that I don't fully know what I'm doing, and would appreciate help in
 6. Create a Task - DUE July 5, 2020
 7. Systems Engineering Paper - DUE July 12, 2020
 8. Resume / Curriculum Vitae (CV) - Rolling Deadline
+
+# June 9, 2020
+1. Provided an update with where I was at, still having issues with RTabMap, but had not touched it in a few days. I asked Nathan, and will ask Kyle, to work on this, but we can run the nav stack mapless, so it might not be the biggest issue.
+
+> ***BA*** Starting 6/10/2020, Nathan will be working 8-5 M-F.
+
+2. Discussed with Gerald where he was at on his exploration of the nav stack. He seems to be in about the same place I left off. Gerald and Dallas are going to work together on creating a state machine using `smach`. I haven't touched this package much at all, but Gerald has been experimenting. 
+
+3. Gave another high-level overview of the controller. I'm going to be working with Thomas on this, as if the OCEANS abstract gets accepted, he will be contributing to that. We were in a call for a few hours yesterday after the meeting, but he had to step away because of lack of sleep from pain from his recent surgery. We are planning to resume together at some point today. I need a few length estimates from CAD, listed in the `TODO` section of `roboboat/roboboat_control/scripts/controller.cpp`.
+
+> ***BA*** My current plan is controller --> control allocation (mapping thrust to RPM, since thrust should be reasonably estimated from Blue Robotics' data sheet on the T200s @ 16V, then work on the RTabMap issues. I'll answer heat transfer related questions from Bradley and Thomas as they come up inbetween. I'm going to shoot for writing up a rough draft of the TDR on Saturday, either with what we have or where I think we're headed, for the competition strategy section. This will likely require coordination with Gerald about his progress with `smach`.)
+
+4. As Joseph is now less available, I'm going to be guiding the enclosure team on their calculations. I gave Bradley and Thomas an update on what Joseph and I worked on Saturday with the CAD. Should any more questions from them come up, I should be equipped to answer them. I'm still having a hard time getting through to the two of them that we just want a rough estimate of the temperature reduction, not within a .01% error margin.
