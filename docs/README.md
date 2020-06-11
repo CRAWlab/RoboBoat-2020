@@ -83,11 +83,11 @@ The 2019 Ragin' Cajuns RoboBoat team, who fabricated the hull and laid the groun
 </div>
 
 <!-- Row 3 -->
-<br>
+<!-- <br>
 <p style="float:left;text-align:center; width: 20%; margin-right: 40%; margin-left: 40%">
 	<img width="100%" src="Figures/placeholder.PNG"/><br>
 	<b style="text-align:center;">Kyle Leleux</b>
-</p>
+</p> -->
 
 <h2 style="text-align:center;">Design Changes</h2>
 The main focus of this year's entry was a code cleanup and new control strategy. Unfortunately, the 2020 RoboBoat in-person competition has been cancelled, so this design will not get to physically compete. This, along with sanctions placed by our state and local governments and university, has stifled some of the manufacturing improvements to the design, but the details are flushed out in the documentation.
