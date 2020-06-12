@@ -1,0 +1,76 @@
+\documentclass[letterpaper, 10 pt, conference]{ieeeconf}
+\IEEEoverridecommandlockouts
+\overrideIEEEmargins
+
+% The following packages can be found on http:\\www.ctan.org
+\usepackage{graphics}
+\usepackage{graphicx}
+\usepackage{epsfig}
+\usepackage{mathptmx}
+\usepackage{times}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{siunitx}
+\usepackage{multirow}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{rotating}
+\usepackage{textcomp}
+\usepackage{bm}
+\usepackage{fancyhdr}
+\usepackage{comment}
+\usepackage{subfigure}
+
+\title{\LARGE \bf Ragin' Cajuns RoboBoat--2020}
+
+
+\author{\textbf{Captains}:\\Benjamin Armentor and Joseph Stevens\\
+\textbf{Members}:\\Gerald Eaglin, Bradley Este, Thomas Poché, Nathan Madsen, Dallas Mitchell, Andrew Durand\\
+\textbf{Coach}:\\Joshua Vaughan$^{1}$% <-this % stops a space
+\thanks{$^{1}$Department of Mechanical Engineering,
+        University of Louisiana at Lafayette, Lafayette, LA 70504, USA
+        {\tt\small joshua.vaughan@louisiana.edu}}%
+}
+
+\bibliographystyle{IEEEtran}
+
+\begin{document}
+\maketitle
+\thispagestyle{empty}
+\section{abstract}
+This report discusses the motivations behind design choices and improvements to the University of Louisiana at Lafayette's first entry to RoboNation's RoboBoat Competition in 2019. Due to restrictions on group gatherings and university resources, this design has not been physically constructed.  The Ragin' Cajuns RoboBoat is a catamaran-style vessel equipped with four thrusters in an ``X"-Configuration, enabling holonomic motion. The computer network communicates with individual components via the Robot Operating System (ROS) protocol. The main contributions from the 2020 Ragin' Cajuns RoboBoat team include a new control method, procurement of a larger electronics enclosure, and upgrading the computer vision hardware, and creating a physics simulation of the system in Gazebo.
+\section{Competition Strategy}
+The 2020 RoboBoat competition requires teams to build an Autonomous Surface Vessel (ASV) capable of performing a variety of tasks. For an ASV to accomplish these tasks, several subsystems must function together. This section will discuss the 2020 Ragin' Cajun RoboBoat team's approach to completing the tasks set out by RoboNation for this year's competition.
+
+\subsection{Navigation Channel}
+\label{NavigationChannel}
+To demonstrate autonomy and ensure some level of course safety, this task is mandatory and must be completed before any other tasks can be attempted. The ASV must pass through two sets of gates. Each gate consists of two buoys at least six feet apart. The two sets of buoys are at least 50 feet apart. The Ragin' Cajuns RoboBoat is equipped with a stereoscopic camera that provides images to an image classifier trained by a Convolution Neural Network (CNN). The training set for this CNN consists of manually-labeled images from the previous competition, as well as images from the 2016 Maritime RobotX Competition. The output of the image classifier is made available to a state machine that determines how the ASV should maneuver. For the Navigation Channel task, the state machine directs the ASV to ...
+
+\subsection{Obstacle Channel}
+\label{ObstacleChannel}
+The obstacle channel requires the ASV to maneuver through a series of gates with obstacle buoys along the trajectory. Unlike the Navigation Channel task, these gates are arranged in a non-linear trajectory. Because the Ragin' Cajun RoboBoat hull footprint is large, this task may be difficult to complete. However, our ASV is also equipped with a holonomic thruster configuration. This allows the ASV to exert forces and moments in each degree of freedom independently. This increased maneuverability, along with restrictions on maximum allowable velocities, should aid the Ragin' Cajun RoboBoat to complete this task. 
+
+\subsection{Obstacle Field}
+\label{ObstacleField}
+This task is similar to the Obstacle Channel task, but instead of gates, there is one ``Pill Buoy", which has distinguished markings, that the ASV must circumnavigate. This buoy is surrounded by several obstacles spaced as little as four feet apart. The Ragin' Cajun RoboBoat team's approach to this task is handled by collaboration between the high-level state machine and the path planner. The state machine will determine that the ASV is at the Obstacle Field by first identifying the Pill Buoy in the cameras' field of view. The state machine will then place a waypoint toward the Pill Buoy to motivate the ASV to approach it. The path planner will then plan a trajectory through the obstacles while maintaining a safe distance from obstacles that is manually prescribed. This value is chosen as smaller than 50\% of the difference between the minimum specified distance between obstacles the ASV can pass through, four feet, and the beam width of the Ragin' Cajun RoboBoat. When the ASV has entered the obstacle field, the state machine will command the path planner to circumnavigate the obstacle. Once the obstacle has been circled, and the ASV has changed its heading by at least 360$^\circ$, the ASV will exit the obstacle field out of a pair of obstacles the computer vision system and path planner find wide enough for the ASV to fit.
+\subsection{Acoustic Docking}
+TBD if any development is made here. Or, recycle the 2019 docking strategy (I think there was one?)
+
+\subsection{Object Delivery}
+\label{ObjectDelivery}
+This task requires the ASV to deliver up to four objects to a specified area in the course. The task may be completed solely by the ASV or by a combination of an ASV or Unmanned Aerial Vehicle (UAV). The 2020 Ragin' Cajun RoboBoat team declined to develop this task to focus on other hardware and software upgrades. Should a task like this be introduced in future competitions, the Ragin' Cajun RoboBoat would have been tasked with collecting images of the new course elements to enhance the image classifier training set, which currently has a limited supply of dock-like images.
+
+\subsection{Speed Gate}
+\label{SpeedGate}
+This task introduces a race element to the competition. The ASV is required to enter through a gate, travel to a buoy and circle it, and return through the gate as quickly as possible. Because of the new enclosure that was procured for this competition, the ASV thrust-to-weight ratio has decreased, hurting our possible performance at this task. However, the new optimal control strategy implemented for this year's competition may be more effective than the velocity controller used at the previous competition. Additionally, the state machine overrides the velocity restrictions placed on the ASV by the path planner for this task.
+
+\subsection{Return to Dock}
+\label{ReturnToDock}
+Once all other tasks have been completed, the final task the ASV can complete is returning to the starting point of the course without encountering any obstacles. The ASV must pass through its own course, and not another where other vessels are competing. This is accomplished by recording the starting position, and then upon completing the final competition task, activating that saved location as a waypoint. While the ASV is completing other competition tasks, it will also be generating a map of the environment. Iin conjunction with its localization and path planning capabilities, this will be used to maneuver the ASV back to the starting dock.
+
+\section{Design Creativity}
+\section{Experimental Results}
+\section{Acknowledgments}
+\begin{appendix}
+\end{appendix}
+\end{document}
