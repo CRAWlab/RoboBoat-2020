@@ -733,8 +733,8 @@
                             \setlength{\paperwidth}{8.5in}%
 %			    \setlength{\topmargin}{0in}%
 			    \setlength{\topmargin}{-22pt}% HK May 15 2013
-                            \def\@IEEEmarginE{0.75in}%
-                            \def\@IEEEmarginW{0.75in}}
+                            \def\@IEEEmarginE{0.75in}% BA: 6/20/2020 RoboBoat
+                            \def\@IEEEmarginW{0.75in}}% BA: 6/20/2020 RoboBoat
 
 
 \DeclareOption{a4paper}{\setlength{\paperheight}{297mm}%
