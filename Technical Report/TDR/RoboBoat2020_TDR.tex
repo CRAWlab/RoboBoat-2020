@@ -63,7 +63,7 @@ The 2020 RoboBoat competition requires teams to build an Autonomous Surface Vess
 %
 \begin{figure}[tb]
 \centering
-\includegraphics[width=\columnwidth]{Figures/Catamaran_Final_Render_2.pdf}
+\includegraphics[width=\columnwidth]{Figures/Catamaran_Final_Render_3.pdf}
 \caption{2020 Ragin' Cajuns RoboBoat CAD Model}
 \label{fig:RoboBoat}
 \end{figure}
@@ -300,17 +300,17 @@ The values follow the SNAME convention, meaning subscripts represent drag force 
 
 \subsection{System Simulation}
 \subsubsection{Gazebo}
-The biggest contribution of this team to the continued development of the Ragin' Cajun RoboBoat is the foundation for a system simulation in Gazebo. The RoboBoat spawns in the SandIsland World from the Virtual Maritime RobotX Competition \cite{Bingham:19a}, shown in Figure \ref{fig:YOLO}.
+The biggest contribution of this team to the continued development of the Ragin' Cajun RoboBoat is the foundation for a system simulation in Gazebo. The RoboBoat spawns in the Sand Island World from the Virtual Maritime RobotX Competition \cite{Bingham:19a}, shown in Figure \ref{fig:YOLO}.
 %
 \begin{figure}[tb]
 \centering
 \vspace{0.05in}
 \includegraphics[width=\columnwidth]{Figures/YOLOV3.png}
-\caption{Testing the RoboBoat Image Classifier in Sandisland}
+\caption{Testing the RoboBoat Image Classifier in Sand Island}
 \label{fig:YOLO}
 \end{figure}
 %
-Here, the image classifier training is being tested on its ability to recognize the buoys. The classifier uses ``You Only Look Once" (YOLOv3) \cite{Redmon:18a}, trained using the CNN described in Section \ref{NavigationChannel}. The simulation is based on the Heron Simulation from ClearPath Robotics \cite{Bogdon:19a}. The ROS network on-board the RoboBoat computer systems and sensors has been migrated to generic, configurable sensors with open-source plugins to simulate data such as point clouds, laser scans, and wind and wave effects. 
+Here, the image classifier training is being tested on its ability to recognize the buoys. The classifier uses ``You Only Look Once" (YOLOv3) \cite{Redmon:18a}, trained using the CNN described in Section \ref{NavigationChannel}. The simulation is based on the Heron Simulation from Clearpath Robotics \cite{Bogdon:19a}. The ROS network on-board the RoboBoat computer systems and sensors has been migrated to generic, configurable sensors with open-source plugins to simulate data such as point clouds, laser scans, and wind and wave effects. 
 
 The ACADO toolkit is used to generate a MPC controller \cite{Houska:11a}. Several other nodes are used to perform localization or act as components in the ROS Navigation Stack. The current configuration still needs lots of tuning, but the 2020 Ragin' Cajun RoboBoat team decided that focusing on developing this platform as a tool for future competitions would be the best course of action.
 
@@ -318,7 +318,7 @@ The ACADO toolkit is used to generate a MPC controller \cite{Houska:11a}. Severa
 With a completed CAD model, the team would like to verify the hand calculations for the convection heat transfer from the enclosure surface and perform thermal analyses within the enclosure itself. Though it is not ready for this year's competition, the updated CAD model will be used to generate these system characteristics before the 2021 competition, and may result in further hardware upgrades such as an air circulation system to be included within the enclosure.
 
 \section{Conclusions}
-This report analyzed the design of the 2020 Ragin' Cajun RoboBoat, including key software, hardware, and strategic improvements. This design builds on the Ragin' Cajuns' previous entry to the RoboBoat Challenge, and now utilizes Model Predictive Control, an optimal control strategy. The sensor configuration that the RoboBoat is equipped with now eliminates a blind spot that hindered the holonomic thruster configuration. Contributions made by this team to furthering ASV development at the University of Louisiana at Lafayette include a Gazebo simulation of the RoboBoat system and an updated CAD model. Competition strategies employed and documented by this team may serve useful to future Ragin' Cajun RoboBoat team members.
+This report analyzed the design of the 2020 Ragin' Cajun RoboBoat, including key software, hardware, and strategic improvements. This design builds on the Ragin' Cajuns' previous entry to the RoboBoat Challenge, and now utilizes Model Predictive Control, an optimal control strategy. The sensor configuration that the RoboBoat is equipped with now eliminates a blind spot that limited the usefulness of the holonomic thruster configuration. Contributions made by this team to furthering ASV development at the University of Louisiana at Lafayette include a Gazebo simulation of the RoboBoat system and an updated CAD model. Competition strategies employed and documented by this team may serve useful to future Ragin' Cajun RoboBoat team members.
 
 \section{Acknowledgments}
 This project would not be possible without the guidance and support of our Coach, Dr. Joshua Vaughan. The team would like to thank him for his patience with us and willingness to assist us wherever possible. The 2020 Ragin' Cajun RoboBoat team would also like to thank Hammond Manufacturing and AWC, Inc. for their generous donation of a new and improved electronics enclosure. The team was unable to install it because of restricted access to university facilities, but it will make its debut in the 2021 Ragin' Cajun RoboBoat entry.
@@ -361,7 +361,7 @@ Propulsion  & \begin{tabular}{c}Speed\\Controllers\end{tabular} & \begin{tabular
 \\
 Sensing & \begin{tabular}{c}H2C\\Hydrophone\end{tabular} & \begin{tabular}{c}Aquarian\\Audio\end{tabular} & \begin{tabular}{c} $\left(0.01, 100\right)$ KHz\\ 0.3mA\\ $2$K$\Omega$ Impedance \\ Omnidirectional\\ 25mm x 58mm\\ 51g\\ $\leq$80 meters\end{tabular} & 2 & 169.00\\
 \\
-Sensing & Scarlet 2i2 & Focusrite & \begin{tabular}{c} $\left(0.02, 20) KHz\\ 1.5M$\Omega$ \end{tabular} & 1 & 159.99\\
+Sensing & Scarlet 2i2 & Focusrite & \begin{tabular}{c} $\left(0.02, 20\right)$ KHz\\ 1.5M$\Omega$ \end{tabular} & 1 & 159.99\\
 \\
 Sensing & UM6 IMU & CH Robotics & \begin{tabular}{c} 500 Hz\\  $\leq 2^\circ$ Pitch, Roll\\ $\leq 5^\circ$ Yaw\\ 5V\\ $\pm2000^\circ$/s rotation\\ $\pm 2g$ accel.\end{tabular} & 1 & 1260.00\\
 \\
