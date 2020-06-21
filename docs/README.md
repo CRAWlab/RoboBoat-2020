@@ -164,7 +164,7 @@ On the hardware side, we wanted to expand our enclosure to allow for more comput
 <br>
 
 <h2 style="text-align:center;">Documentation</h2>
-* Technical Design Report (to be linked soon)
+* [Technical Design Report](RoboBoat2020_TDR.pdf)
 * Team Video (to be linked soon)
 
 *****
